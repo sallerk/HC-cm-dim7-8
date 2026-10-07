@@ -1,0 +1,2 @@
+  [w02800] group 2800  cases so far 7  (0.2s)
+[w02800] done groups 2800..2900 cases 491 time 6.8s

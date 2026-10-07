@@ -1,0 +1,32 @@
+m= 17 #CMtypes 256 #orbits 16
+    ('prim', 9) orbits: 16
+m= 32 #CMtypes 256 #orbits 20
+    ('imprim|stab=2', 5) orbits: 3
+    ('imprim|stab=4', 3) orbits: 1
+    ('imprim|stab=8', 2) orbits: 2
+    ('prim', 7) orbits: 2
+    ('prim', 8) orbits: 4
+    ('prim', 9) orbits: 8
+   example ('prim', 8) (1, 3, 5, 7, 9, 11, 17, 19)
+   example ('prim', 7) (1, 3, 5, 7, 9, 15, 19, 21)
+m= 40 #CMtypes 256 #orbits 24
+    ('imprim|stab=2', 5) orbits: 6
+    ('imprim|stab=4', 3) orbits: 2
+    ('imprim|stab=8', 2) orbits: 4
+    ('prim', 7) orbits: 4
+    ('prim', 9) orbits: 8
+   example ('prim', 7) (1, 3, 7, 9, 11, 13, 21, 23)
+m= 48 #CMtypes 256 #orbits 24
+    ('imprim|stab=2', 5) orbits: 6
+    ('imprim|stab=4', 3) orbits: 2
+    ('imprim|stab=8', 2) orbits: 4
+    ('prim', 7) orbits: 4
+    ('prim', 9) orbits: 8
+   example ('prim', 7) (1, 5, 7, 11, 13, 17, 25, 29)
+m= 60 #CMtypes 256 #orbits 24
+    ('imprim|stab=2', 5) orbits: 6
+    ('imprim|stab=4', 3) orbits: 2
+    ('imprim|stab=8', 2) orbits: 4
+    ('prim', 7) orbits: 4
+    ('prim', 9) orbits: 8
+   example ('prim', 7) (1, 7, 11, 13, 17, 19, 31, 37)

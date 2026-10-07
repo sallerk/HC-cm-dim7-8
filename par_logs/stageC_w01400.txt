@@ -1,0 +1,2 @@
+  [w01400] group 1400  cases so far 6  (0.2s)
+[w01400] done groups 1400..1500 cases 815 time 6.5s

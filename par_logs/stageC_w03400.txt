@@ -1,0 +1,4 @@
+  [w03400] group 3400  cases so far 2  (0.2s)
+#I  Alternating recognition needed!
+#I  Alternating recognition needed!
+[w03400] done groups 3400..3500 cases 308 time 3.1s

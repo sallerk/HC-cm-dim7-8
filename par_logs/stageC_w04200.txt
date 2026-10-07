@@ -1,0 +1,2 @@
+  [w04200] group 4200  cases so far 6  (0.2s)
+[w04200] done groups 4200..4300 cases 259 time 1.8s

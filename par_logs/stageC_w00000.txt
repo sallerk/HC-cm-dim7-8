@@ -1,0 +1,2 @@
+  [w00000] group 0  cases so far 64  (2.0s)
+[w00000] done groups 0..100 cases 2122 time 8.7s

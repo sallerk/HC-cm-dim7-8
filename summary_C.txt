@@ -1,0 +1,116 @@
+g=7: W(B7)-classes of subgroups containing rho: 6665 ; cases (G-orbits of types) 29697 ; N-classes 13962
+reduced cases 5940 (N-classes 3870) ; d-dist {0: 5171, 1: 669, 2: 76, 3: 24}
+transitive reduced: 52, d-dist {0: 52}
+strict KEY TEST on reduced: pass 5600 / fail 340 ; non-reduced strict fails 12644
+
+reduced d>=1 by (factor dims, d, tier): #cases / #N-classes
+   (2, 2, 2, 1)           d=2  general D=8 (IQmult None, Dq 8)             4 / 1
+   (3, 1, 1, 1, 1)        d=1  strict                                     22 / 8
+   (3, 2, 1, 1)           d=1  strict                                     80 / 32
+   (3, 3, 1)              d=1  strict                                    116 / 47
+   (3, 3, 1)              d=2  strict                                     20 / 5
+   (4, 1, 1, 1)           d=1  IQmult D=6                                 38 / 15
+   (4, 1, 1, 1)           d=1  strict                                     12 / 12
+   (4, 1, 1, 1)           d=2  general D=8 (IQmult None, Dq 6)            16 / 4
+   (4, 1, 1, 1)           d=3  general D=8 (IQmult None, Dq 6)             8 / 1
+   (4, 2, 1)              d=1  IQmult D=6                                106 / 43
+   (4, 2, 1)              d=1  strict                                     40 / 40
+   (4, 2, 1)              d=2  general D=8 (IQmult None, Dq 8)            24 / 9
+   (4, 2, 1)              d=3  general D=16 (IQmult None, Dq 8)           12 / 2
+   (4, 3)                 d=1  general D=10 (IQmult 10, Dq 10)            36 / 18
+   (4, 3)                 d=1  strict                                     56 / 50
+   (4, 3)                 d=3  general D=None (IQmult None, Dq None)       4 / 2
+   (5, 1, 1)              d=1  general D=8 (IQmult 8, Dq 8)               16 / 8
+   (5, 1, 1)              d=1  strict                                     24 / 8
+   (6, 1)                 d=1  general D=10 (IQmult 10, Dq 10)            32 / 16
+   (6, 1)                 d=1  general D=8 (IQmult 8, Dq 8)               32 / 16
+   (6, 1)                 d=1  strict                                     59 / 43
+   (6, 1)                 d=2  general D=8 (IQmult None, Dq 8)            12 / 6
+
+consistency: general Dmin <= IQmult Dmin whenever both exist: True
+REDUCED CONFIGURATIONS WITH MINIMAL WEIL DIMENSION > 6 (one line per N-class; generators in enum_g7.json):
+  gid 457   (2, 2, 2, 1)           |G|=16     TI=4T3+4T3+4T3+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 1, -1, 0, -1, 0], [0, 1, -1, 0, 0, -1, -1]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 329   (4, 1, 1, 1)           |G|=16     TI=8T3+2T1+2T1+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 0, 1, -1, -1, 0], [0, 1, 0, 0, -1, 1, 1]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=6 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 336   (4, 1, 1, 1)           |G|=16     TI=8T2+2T1+2T1+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 0, 0, -1, 1, 1], [0, 1, 0, 1, -1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=6 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 438   (4, 1, 1, 1)           |G|=16     TI=8T9+2T1+2T1+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, -1, 0, 0, -1, -1], [0, 1, -1, -1, 0, 1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=6 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 1311  (4, 1, 1, 1)           |G|=32     TI=8T9+2T1+2T1+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 0, 0, -1, 1, 1], [0, 1, 0, 1, -1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=6 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 66    (4, 1, 1, 1)           |G|=8      TI=8T3+2T1+2T1+2T1              Phi=[0, 1, 2, 3, 4, 5, 13] d=3 LU=[[1, 0, 0, 1, -1, -1, 0], [0, 1, 0, 0, -1, 1, 1], [0, 0, 1, 1, -1, 0, 1]] IQmultDmin=None IQmultQrank=3 generalDmin=8 Dq=6 Dlat_IQ/4/8=None/8/8  (#orb 8)
+  gid 332   (4, 2, 1)              |G|=16     TI=8T2+4T1+2T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, -1, 0, -1, 0, -1], [0, 1, -1, -1, 1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 361   (4, 2, 1)              |G|=16     TI=8T2+2T1+4T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 0, 0, -1, 1, 1], [0, 1, 0, 1, -1, -1, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 472   (4, 2, 1)              |G|=16     TI=8T9+4T3+2T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, 1, 0, -1, 0, 1], [0, 1, -1, 1, -1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 1360  (4, 2, 1)              |G|=32     TI=8T10+4T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, -1, 0, 1, 0, 1], [0, 1, -1, 1, -1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 4)
+  gid 1418  (4, 2, 1)              |G|=32     TI=4T3+8T10+2T1                 Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, -1, 0, 1, 0, -1], [0, 1, -1, -1, 1, 0, -2]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 1421  (4, 2, 1)              |G|=32     TI=8T10+4T3+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, -1, 0, -1, 0, -1], [0, 1, -1, -1, 1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 1435  (4, 2, 1)              |G|=32     TI=8T9+4T3+2T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=2 LU=[[1, 0, -1, 0, -1, 0, -1], [0, 1, 1, -1, -1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 1439  (4, 2, 1)              |G|=32     TI=8T9+4T3+2T1                  Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, -1, 1, 1, 0, 0], [0, 1, -1, 0, -1, 0, 1]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 2949  (4, 2, 1)              |G|=64     TI=8T18+4T3+2T1                 Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, -1, 0, -1, 0, 1], [0, 1, -1, 1, 1, 0, 0]] IQmultDmin=None IQmultQrank=0 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 90    (4, 2, 1)              |G|=8      TI=8T2+4T1+2T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=3 LU=[[1, 0, -1, 0, -1, 0, -1], [0, 1, -1, 0, 0, -1, -1], [0, 0, 0, 1, -1, -1, -1]] IQmultDmin=None IQmultQrank=1 generalDmin=16 Dq=8 Dlat_IQ/4/8=None/None/16  (#orb 8)
+  gid 471   (4, 2, 1)              |G|=16     TI=8T9+4T3+2T1                  Phi=[0, 1, 2, 3, 4, 5, 13] d=3 LU=[[1, 0, 0, 1, -1, -1, 0], [0, 1, 0, 0, 1, -1, 1], [0, 0, 1, 1, 0, -1, 1]] IQmultDmin=None IQmultQrank=1 generalDmin=16 Dq=8 Dlat_IQ/4/8=None/None/16  (#orb 4)
+  gid 513   (4, 3)                 |G|=24     TI=6T1+8T3                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 553   (4, 3)                 |G|=24     TI=8T13+6T1                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[1, -1, 2, -1, 2, 2, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 558   (4, 3)                 |G|=24     TI=6T1+8T2                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 561   (4, 3)                 |G|=24     TI=6T3+8T3                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 587   (4, 3)                 |G|=24     TI=6T3+8T2                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1577  (4, 3)                 |G|=48     TI=6T3+8T3                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1721  (4, 3)                 |G|=48     TI=6T3+8T2                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, 1, 1, -2, 1, 1, -2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1727  (4, 3)                 |G|=48     TI=6T1+8T9                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1734  (4, 3)                 |G|=48     TI=6T3+8T9                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, 1, 1, -2, 1, 1, -2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1758  (4, 3)                 |G|=48     TI=6T3+8T9                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1766  (4, 3)                 |G|=48     TI=6T3+8T9                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1776  (4, 3)                 |G|=48     TI=8T24+6T3                     Phi=[0, 1, 2, 3, 4, 12, 13] d=1 LU=[[1, -1, 2, -1, 2, 2, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 2954  (4, 3)                 |G|=72     TI=6T1+8T13                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 3397  (4, 3)                 |G|=96     TI=6T3+8T9                      Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 4373  (4, 3)                 |G|=144    TI=6T3+8T13                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 4382  (4, 3)                 |G|=144    TI=6T3+8T24                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 4384  (4, 3)                 |G|=144    TI=6T1+8T24                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 5426  (4, 3)                 |G|=288    TI=6T3+8T24                     Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[2, -1, -1, -2, -1, -1, 2]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 592   (4, 3)                 |G|=24     TI=8T13+6T6                     Phi=[0, 1, 2, 3, 5, 6, 11] d=3 LU=[[1, 0, 0, 0, 1, -1, 1], [0, 1, 0, -1, -1, -1, 0], [0, 0, 1, -1, 0, -1, 1]] IQmultDmin=None IQmultQrank=0 generalDmin=None Dq=None Dlat_IQ/4/8=None/None/None  (#orb 2)
+  gid 1779  (4, 3)                 |G|=48     TI=8T24+6T11                    Phi=[0, 1, 2, 3, 11, 12, 13] d=3 LU=[[1, 0, 0, 1, 1, 1, 0], [0, 1, 0, 0, -1, 1, 1], [0, 0, 1, 1, 0, 1, 1]] IQmultDmin=None IQmultQrank=0 generalDmin=None Dq=None Dlat_IQ/4/8=None/None/None  (#orb 2)
+  gid 478   (5, 1, 1)              |G|=20     TI=10T3+2T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, 1, 0, 1, -1, -3, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 479   (5, 1, 1)              |G|=20     TI=10T1+2T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, 0, -1, -1, 3, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1481  (5, 1, 1)              |G|=40     TI=10T3+2T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, 0, -1, -1, 3, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1483  (5, 1, 1)              |G|=40     TI=10T5+2T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, 1, 0, -1, 1, -3, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 2991  (5, 1, 1)              |G|=80     TI=10T5+2T1+2T1                 Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, 0, -1, -1, 3, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 4881  (5, 1, 1)              |G|=240    TI=2T1+10T11+2T1                Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[3, -1, -1, -1, -1, -1, 0]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 4882  (5, 1, 1)              |G|=240    TI=2T1+10T22+2T1                Phi=[0, 1, 2, 3, 5, 6, 11] d=1 LU=[[3, -1, -1, 1, 1, -1, 0]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 5844  (5, 1, 1)              |G|=480    TI=2T1+10T22+2T1                Phi=[0, 1, 2, 3, 4, 6, 12] d=1 LU=[[3, -1, -1, -1, -1, -1, 0]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 111   (6, 1)                 |G|=12     TI=12T3+2T1                     Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 115   (6, 1)                 |G|=12     TI=12T2+2T1                     Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 577   (6, 1)                 |G|=24     TI=12T7+2T1                     Phi=[0, 1, 2, 3, 5, 6, 11] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 595   (6, 1)                 |G|=24     TI=12T10+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1467  (6, 1)                 |G|=36     TI=12T18+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1744  (6, 1)                 |G|=48     TI=12T24+2T1                    Phi=[0, 1, 2, 3, 5, 6, 11] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1761  (6, 1)                 |G|=48     TI=12T25+2T1                    Phi=[0, 1, 2, 3, 5, 11, 13] d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 1769  (6, 1)                 |G|=48     TI=12T23+2T1                    Phi=[0, 1, 2, 3, 5, 6, 11] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 2961  (6, 1)                 |G|=72     TI=12T40+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 2973  (6, 1)                 |G|=72     TI=12T37+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 3408  (6, 1)                 |G|=96     TI=12T48+2T1                    Phi=[0, 1, 2, 3, 5, 11, 13] d=1 LU=[[1, -1, -1, -1, -1, 2, 1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 3428  (6, 1)                 |G|=120    TI=2T1+12T75                    Phi=[0, 1, 2, 3, 4, 12, 13] d=1 LU=[[2, -1, -1, -1, -1, -1, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 4390  (6, 1)                 |G|=144    TI=12T77+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 2, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 4884  (6, 1)                 |G|=240    TI=2T1+12T123                   Phi=[0, 1, 2, 3, 4, 12, 13] d=1 LU=[[2, -1, -1, -1, -1, -1, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 6083  (6, 1)                 |G|=720    TI=2T1+12T180                   Phi=[0, 1, 2, 3, 4, 12, 13] d=1 LU=[[2, -1, -1, -1, -1, -1, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 6402  (6, 1)                 |G|=1440   TI=2T1+12T219                   Phi=[0, 1, 2, 3, 4, 12, 13] d=1 LU=[[2, -1, -1, -1, -1, -1, -1]] IQmultDmin=8 IQmultQrank=1 generalDmin=8 Dq=8 Dlat_IQ/4/8=8/8/8  (#orb 2)
+  gid 111   (6, 1)                 |G|=12     TI=12T3+2T1                     Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 115   (6, 1)                 |G|=12     TI=12T2+2T1                     Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 577   (6, 1)                 |G|=24     TI=12T7+2T1                     Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 595   (6, 1)                 |G|=24     TI=12T10+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1467  (6, 1)                 |G|=36     TI=12T18+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1744  (6, 1)                 |G|=48     TI=12T24+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1761  (6, 1)                 |G|=48     TI=12T25+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 1769  (6, 1)                 |G|=48     TI=12T23+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 2961  (6, 1)                 |G|=72     TI=12T40+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 2973  (6, 1)                 |G|=72     TI=12T37+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 3408  (6, 1)                 |G|=96     TI=12T48+2T1                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[1, -1, -1, -1, -1, 4, 1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 3428  (6, 1)                 |G|=120    TI=2T1+12T75                    Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[4, -1, -1, -1, -1, -1, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 4390  (6, 1)                 |G|=144    TI=12T77+2T1                    Phi=[0, 1, 2, 3, 4, 5, 6]  d=1 LU=[[1, -1, -1, -1, -1, 4, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 4884  (6, 1)                 |G|=240    TI=2T1+12T123                   Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[4, -1, -1, -1, -1, -1, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 6083  (6, 1)                 |G|=720    TI=2T1+12T180                   Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[4, -1, -1, -1, -1, -1, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 6402  (6, 1)                 |G|=1440   TI=2T1+12T219                   Phi=[0, 1, 2, 3, 4, 5, 13] d=1 LU=[[4, -1, -1, -1, -1, -1, -1]] IQmultDmin=10 IQmultQrank=1 generalDmin=10 Dq=10 Dlat_IQ/4/8=10/10/10  (#orb 2)
+  gid 115   (6, 1)                 |G|=12     TI=12T2+2T1                     Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, 0, -1, 0, 1, 1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 595   (6, 1)                 |G|=24     TI=12T10+2T1                    Phi=[0, 1, 2, 3, 5, 6, 11] d=2 LU=[[1, 0, 0, -1, 0, 1, -1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 1467  (6, 1)                 |G|=36     TI=12T18+2T1                    Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, 0, -1, 0, 1, 1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 2961  (6, 1)                 |G|=72     TI=12T40+2T1                    Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, 0, -1, 0, 1, 1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 2973  (6, 1)                 |G|=72     TI=12T37+2T1                    Phi=[0, 1, 2, 3, 5, 11, 13] d=2 LU=[[1, 0, 0, -1, 0, 1, 1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+  gid 4390  (6, 1)                 |G|=144    TI=12T77+2T1                    Phi=[0, 1, 2, 3, 5, 6, 11] d=2 LU=[[1, 0, 0, -1, 0, 1, -1], [0, 1, 1, 0, 1, -1, 0]] IQmultDmin=None IQmultQrank=2 generalDmin=8 Dq=8 Dlat_IQ/4/8=None/8/8  (#orb 2)
+total: 196 cases / 83 N-classes with minimal Weil dimension > 6
+by (factor dims, d, general Dmin): {((4, 1, 1, 1), 3, 8): 8, ((4, 2, 1), 3, 16): 12, ((6, 1), 1, 10): 32, ((6, 1), 1, 8): 32, ((6, 1), 2, 8): 12, ((4, 1, 1, 1), 2, 8): 16, ((4, 2, 1), 2, 8): 24, ((2, 2, 2, 1), 2, 8): 4, ((5, 1, 1), 1, 8): 16, ((4, 3), 1, 10): 36, ((4, 3), 3, None): 4}

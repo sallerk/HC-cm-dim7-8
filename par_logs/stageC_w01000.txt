@@ -1,0 +1,2 @@
+  [w01000] group 1000  cases so far 10  (0.2s)
+[w01000] done groups 1000..1100 cases 629 time 2.4s

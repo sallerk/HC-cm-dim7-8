@@ -1,0 +1,45 @@
+chunk 301-350 done rc=0 at 18.0s
+chunk 151-200 done rc=0 at 36.0s
+chunk 351-400 done rc=0 at 42.0s
+chunk 1-50 done rc=0 at 44.0s
+chunk 101-150 done rc=0 at 52.0s
+chunk 401-450 done rc=0 at 52.0s
+chunk 451-500 done rc=0 at 60.0s
+chunk 251-300 done rc=0 at 64.0s
+chunk 651-700 done rc=0 at 68.0s
+chunk 201-250 done rc=0 at 70.0s
+chunk 751-800 done rc=0 at 78.1s
+chunk 801-850 done rc=0 at 78.1s
+chunk 51-100 done rc=0 at 80.1s
+chunk 551-600 done rc=0 at 80.1s
+chunk 701-750 done rc=0 at 82.1s
+chunk 851-900 done rc=0 at 86.1s
+chunk 951-1000 done rc=0 at 88.1s
+chunk 1001-1050 done rc=0 at 90.1s
+chunk 1051-1100 done rc=0 at 92.1s
+chunk 601-650 done rc=0 at 94.1s
+chunk 1101-1150 done rc=0 at 94.1s
+chunk 1151-1200 done rc=0 at 98.1s
+chunk 1201-1250 done rc=0 at 100.1s
+chunk 1251-1300 done rc=0 at 102.1s
+chunk 1351-1400 done rc=0 at 102.1s
+chunk 1301-1350 done rc=0 at 104.1s
+chunk 1401-1450 done rc=0 at 106.1s
+chunk 1551-1600 done rc=0 at 110.1s
+chunk 1451-1500 done rc=0 at 112.1s
+chunk 1501-1550 done rc=0 at 112.1s
+chunk 1601-1650 done rc=0 at 112.1s
+chunk 501-550 done rc=0 at 114.2s
+chunk 1651-1700 done rc=0 at 114.2s
+chunk 1701-1750 done rc=0 at 116.2s
+chunk 1751-1800 done rc=0 at 118.2s
+chunk 1801-1850 done rc=0 at 120.2s
+chunk 1901-1950 done rc=0 at 120.2s
+chunk 1951-1954 done rc=0 at 120.2s
+chunk 1851-1900 done rc=0 at 132.2s
+chunk 901-950 done rc=0 at 150.2s
+merged 1943 (G,rho) pairs ; total 150.7s
+
+real	2m33.873s
+user	0m0.031s
+sys	0m0.075s

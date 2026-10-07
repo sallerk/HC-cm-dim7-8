@@ -1,0 +1,2 @@
+g=8 n=16 NrTransitiveGroups=1954 range 1701..1750
+done g=8: (G,rho) pairs 46, time 4.0s

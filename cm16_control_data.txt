@@ -1,0 +1,27 @@
+Control data for degree-16 CM types (computed 2026-10-05 by brute force with the separate scripts cyc.py, enum_cyc.py, fermat.py, grp16.py in cm16_control/, which produce sections A-C)
+rank = dim MT(A); nondegenerate = 9 for d = 8. For abelian K: rank = 1 + #{odd chars chi : sum_{s in S} chi(s) != 0}; cross-checked against the group-ring matrix rank.
+
+A. Q(zeta_m), phi(m)=16, complex conjugation = -1, orbits of CM types under (Z/m)^* (256 CM types each)
+ m=17 (=Q(zeta_34)), 16T1 C16: 16 orbits, all primitive, all rank 9 (matches Kida: cyclic 2-power => nondegenerate)
+ m=32, 16T5 C8xC2: 20 orbits: primitive rank 9: 8 | primitive rank 8: 4 | primitive rank 7: 2 | stab 2 rank 5: 3 | stab 4 rank 3: 1 | stab 8 rank 2: 2
+   Lenstra (Ribet 1980, (3.12)): S ={1,7,13,15,21,23,27,29} primitive rank 8;  S'={1,7,9,11,13,15,27,29} primitive rank 7
+   (Gordon survey 9.4.2 prints S without 15 -- typo; with 17 instead of 15 rank would be 9)
+ m=40,48,60, 16T2 C4xC2^2 (identical stats): 24 orbits: primitive rank 9: 8 | primitive rank 7: 4 | stab 2 rank 5: 6 | stab 4 rank 3: 2 | stab 8 rank 2: 4
+   (no primitive rank-8 types for C4xC2^2)
+
+B. Fermat-curve factors A_[a,b,c], CM type H = {t : <ta>+<tb>+<tc> = m}, gcd(a,b,c,m)=1, classes up to scaling+permutation
+ m=17: 3 classes, all simple rank 9          m=34: 9 classes, all simple rank 9
+ m=32: simple rank 9: 4 [(1,2,29),(1,3,28),(1,4,27),(1,5,26)]; simple rank 8: 2 [(1,6,25),(1,7,24)]; |W|=2 rank 5: 2 [(1,1,30),(1,15,16)]; |W|=4 rank 3: 1 [(1,14,17)]
+ m=40: simple rank 9: 4 [(1,4,35),(1,5,34),(1,14,25),(1,15,24)]; simple rank 7: 4 [(1,2,37),(1,3,36),(1,6,33),(1,7,32)]; |W|=2 rank 5: 6; |W|=8 rank 2: 1
+ m=48: simple rank 9: 8; simple rank 7: 4 [(1,4,43),(1,5,42),(1,10,37),(1,11,36)]; |W|=2 rank 5: 6; |W|=8 rank 2: 1
+ m=60: simple rank 7: 14 (NO simple rank-9 factor); |W|=2 rank 5: 7; |W|=4 rank 3: 5; |W|=8 rank 2: 1
+
+C. Galois CM fields of degree 16 (regular rep), central involution eps, counts of CM types (not orbits) by (|left stab|, |right stab = reflex subgroup|, rank)
+ D8 (dihedral order 16, 16T13), eps=t^4: (1,1,9):128  (2,2,5):128   -> no primitive degenerate type (Kida Ex.6.4: |X(1,H_i)|=0 for k=3)
+ SD16 (sts=t^3, 16T12):        (1,1,9):128  (1,2,5):64  (2,1,5):64   -> 64 = 4 conjugates x 16 (Kida Ex.6.4)
+ M16 (sts=t^5, 16T6):          (1,1,9):192  (1,2,5):32  (2,1,5):32   -> 32 = 2 conjugates x 16 (Kida Ex.6.4)
+ rank 5 = Dodson's sharp lower bound B(8)=5 (J. Algebra 1987, per zbMATH review).
+
+D. Yanai JTNB 2015 Sec.5, p=17: K=Q(i, zeta17+zeta17^-1), G=Z/2 x (Z/17)^*/{+-1} (C2xC8, 16T5),
+ S={(0,1),(1,2),(0,3),(1,4),(0,5),(1,6),(0,7),(1,8)}: primitive, rank 8 (=dim A), Weil type wrt Q(i), index of degeneracy 1.
+ Under (Z/32)^* -> G, -1->(1,1), 5->(0,3), S maps into the G-orbit of Lenstra's rank-8 S on Q(zeta32).

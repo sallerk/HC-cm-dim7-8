@@ -1,0 +1,4 @@
+g=8 n=16 NrTransitiveGroups=1954 range 1051..1100
+  16T1053 j=0 |G|=768 typeorbits=7 prim=6 primdeg=2 (1.8s, total 2.0s)
+  16T1100 j=0 |G|=1024 typeorbits=3 prim=3 primdeg=0 (0.1s, total 5.9s)
+done g=8: (G,rho) pairs 39, time 5.9s

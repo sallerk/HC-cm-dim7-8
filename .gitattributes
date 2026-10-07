@@ -1,0 +1,3 @@
+# Store every file byte for byte (no line-ending conversion), so that the
+# reference outputs stay identical to what the scripts produce.
+* -text

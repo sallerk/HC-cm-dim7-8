@@ -1,0 +1,2 @@
+  [w01600] group 1600  cases so far 11  (0.2s)
+[w01600] done groups 1600..1700 cases 628 time 2.4s

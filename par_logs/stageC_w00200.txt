@@ -1,0 +1,2 @@
+  [w00200] group 200  cases so far 8  (1.4s)
+[w00200] done groups 200..300 cases 1094 time 4.6s

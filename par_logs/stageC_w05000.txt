@@ -1,0 +1,2 @@
+  [w05000] group 5000  cases so far 2  (0.2s)
+[w05000] done groups 5000..5100 cases 188 time 1.9s

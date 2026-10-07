@@ -1,0 +1,13 @@
+(1) Ribet 1980 (3.12), Q(zeta32), C8 x C2:
+   S  = {1,7,13,15,21,23,27,29}             d=1 dimMT=8 primitive=True n0=1 IQ |t|=[0, 4] tiers(Dlat/Dq IQ,4,8,all)=(8, 8, 8, 8, 8, 8, 8, 8)
+   S' = {1,7,9,11,13,15,27,29}              d=2 dimMT=7 primitive=True n0=1 IQ |t|=[0, 0] tiers(Dlat/Dq IQ,4,8,all)=(None, 8, 8, 8, 8, 8, 8, 8)
+(2) Yanai JTNB 2015 sec. 5 (Tautz-Top-Verberkmoes curve, p=17):
+   G = C8 x C2 (16T5)
+   S = {(0,1),(1,2),(0,3),...,(1,8)}        d=1 dimMT=8 primitive=True n0=1 IQ |t|=[0, 4] tiers(Dlat/Dq IQ,4,8,all)=(8, 8, 8, 8, 8, 8, 8, 8)
+(3) Kida 2019 Ex. 6.4 / Dodson B(8)=5: regular Galois CM fields of degree 16:
+   SD16  = QD16         16T12  CM types by (primitive, d): {(False, 4): 64, (True, 0): 128, (True, 4): 64} ; primitive degenerate types: 64
+   M16   = C8 : C2      16T6   CM types by (primitive, d): {(False, 4): 32, (True, 0): 192, (True, 4): 32} ; primitive degenerate types: 32
+   D16   = D16          16T13  CM types by (primitive, d): {(False, 4): 128, (True, 0): 128} ; primitive degenerate types: 0
+(4) Kida-Yanai IJNT 2020: degree-24 Galois CM fields, index of degeneracy (n0) of primitive degenerate types:
+   C3 x D4          (C3 x D8) central fpf involutions 1: primitive degenerate G-orbits by (d, n0): {(2, 1): 52, (2, 2): 8, (6, 1): 16}
+   SmallGroup(24,8) ((C6 x C2) : C2) central fpf involutions 1: primitive degenerate G-orbits by (d, n0): {(2, 1): 40, (2, 2): 4, (6, 1): 28}

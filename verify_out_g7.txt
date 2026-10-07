@@ -1,0 +1,1 @@
+g=7: groups 6665 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 29697 ; disagreements 0 ; stats {'cases': 29697, 'd_ge1': 24526, 'reduced': 5940, 'red_fail': 340, 'mult_checked': 769} ; 24.0s

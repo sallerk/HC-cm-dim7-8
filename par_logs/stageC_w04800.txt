@@ -1,0 +1,4 @@
+  [w04800] group 4800  cases so far 6  (0.2s)
+#I  Alternating recognition needed!
+#I  Alternating recognition needed!
+[w04800] done groups 4800..4900 cases 389 time 2.9s

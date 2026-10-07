@@ -1,0 +1,5 @@
+__pycache__/
+# intermediate files of the parallel runs (see par_logs/README.txt)
+trans_g8_c*.json
+enum_g7_w*.json
+log_trans_g8_c*.txt

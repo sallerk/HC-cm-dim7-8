@@ -1,0 +1,2 @@
+  [w00400] group 400  cases so far 19  (1.6s)
+[w00400] done groups 400..500 cases 1180 time 8.1s

@@ -1,0 +1,2 @@
+g=7 n=14 NrTransitiveGroups=63 range 1..63
+done g=7: (G,rho) pairs 19, time 0.7s

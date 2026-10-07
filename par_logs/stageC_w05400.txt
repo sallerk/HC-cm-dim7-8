@@ -1,0 +1,2 @@
+  [w05400] group 5400  cases so far 2  (0.2s)
+[w05400] done groups 5400..5500 cases 275 time 2.7s

@@ -1,0 +1,22 @@
+  0/1943 groups, 0.0s, {'groups': 1, 'group_errs': 0, 'deg_cases': 0, 'deg_agree': 0, 'deg_weil_checked': 0, 'nondeg_checked': 16, 'nondeg_agree': 16}
+  100/1943 groups, 20.0s, {'groups': 101, 'group_errs': 0, 'deg_cases': 173, 'deg_agree': 173, 'deg_weil_checked': 173, 'nondeg_checked': 1350, 'nondeg_agree': 1350}
+  200/1943 groups, 29.3s, {'groups': 201, 'group_errs': 0, 'deg_cases': 249, 'deg_agree': 249, 'deg_weil_checked': 249, 'nondeg_checked': 2237, 'nondeg_agree': 2237}
+  300/1943 groups, 33.5s, {'groups': 301, 'group_errs': 0, 'deg_cases': 288, 'deg_agree': 288, 'deg_weil_checked': 288, 'nondeg_checked': 2942, 'nondeg_agree': 2942}
+  400/1943 groups, 41.8s, {'groups': 401, 'group_errs': 0, 'deg_cases': 336, 'deg_agree': 336, 'deg_weil_checked': 336, 'nondeg_checked': 3584, 'nondeg_agree': 3584}
+  500/1943 groups, 43.7s, {'groups': 501, 'group_errs': 0, 'deg_cases': 344, 'deg_agree': 344, 'deg_weil_checked': 344, 'nondeg_checked': 4119, 'nondeg_agree': 4119}
+  600/1943 groups, 45.6s, {'groups': 601, 'group_errs': 0, 'deg_cases': 373, 'deg_agree': 373, 'deg_weil_checked': 373, 'nondeg_checked': 4685, 'nondeg_agree': 4685}
+  700/1943 groups, 49.8s, {'groups': 701, 'group_errs': 0, 'deg_cases': 385, 'deg_agree': 385, 'deg_weil_checked': 385, 'nondeg_checked': 5147, 'nondeg_agree': 5147}
+  800/1943 groups, 53.2s, {'groups': 801, 'group_errs': 0, 'deg_cases': 393, 'deg_agree': 393, 'deg_weil_checked': 393, 'nondeg_checked': 5555, 'nondeg_agree': 5555}
+  900/1943 groups, 54.0s, {'groups': 901, 'group_errs': 0, 'deg_cases': 415, 'deg_agree': 415, 'deg_weil_checked': 415, 'nondeg_checked': 5955, 'nondeg_agree': 5955}
+  1000/1943 groups, 54.7s, {'groups': 1001, 'group_errs': 0, 'deg_cases': 418, 'deg_agree': 418, 'deg_weil_checked': 418, 'nondeg_checked': 6285, 'nondeg_agree': 6285}
+  1100/1943 groups, 56.6s, {'groups': 1101, 'group_errs': 0, 'deg_cases': 420, 'deg_agree': 420, 'deg_weil_checked': 420, 'nondeg_checked': 6637, 'nondeg_agree': 6637}
+  1200/1943 groups, 57.4s, {'groups': 1201, 'group_errs': 0, 'deg_cases': 429, 'deg_agree': 429, 'deg_weil_checked': 429, 'nondeg_checked': 6948, 'nondeg_agree': 6948}
+  1300/1943 groups, 58.0s, {'groups': 1301, 'group_errs': 0, 'deg_cases': 429, 'deg_agree': 429, 'deg_weil_checked': 429, 'nondeg_checked': 7206, 'nondeg_agree': 7206}
+  1400/1943 groups, 58.6s, {'groups': 1401, 'group_errs': 0, 'deg_cases': 429, 'deg_agree': 429, 'deg_weil_checked': 429, 'nondeg_checked': 7430, 'nondeg_agree': 7430}
+  1500/1943 groups, 59.3s, {'groups': 1501, 'group_errs': 0, 'deg_cases': 439, 'deg_agree': 439, 'deg_weil_checked': 439, 'nondeg_checked': 7690, 'nondeg_agree': 7690}
+  1600/1943 groups, 59.9s, {'groups': 1601, 'group_errs': 0, 'deg_cases': 439, 'deg_agree': 439, 'deg_weil_checked': 439, 'nondeg_checked': 7852, 'nondeg_agree': 7852}
+  1700/1943 groups, 60.9s, {'groups': 1701, 'group_errs': 0, 'deg_cases': 449, 'deg_agree': 449, 'deg_weil_checked': 449, 'nondeg_checked': 8068, 'nondeg_agree': 8068}
+  1800/1943 groups, 61.7s, {'groups': 1801, 'group_errs': 0, 'deg_cases': 450, 'deg_agree': 450, 'deg_weil_checked': 450, 'nondeg_checked': 8222, 'nondeg_agree': 8222}
+  1900/1943 groups, 62.3s, {'groups': 1901, 'group_errs': 0, 'deg_cases': 450, 'deg_agree': 450, 'deg_weil_checked': 450, 'nondeg_checked': 8355, 'nondeg_agree': 8355}
+FINAL g=8: {'groups': 1943, 'group_errs': 0, 'deg_cases': 452, 'deg_agree': 452, 'deg_weil_checked': 452, 'nondeg_checked': 8417, 'nondeg_agree': 8417} ; 62.6s
+number of issue lines: 0

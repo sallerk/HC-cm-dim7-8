@@ -1,0 +1,2 @@
+  [w00600] group 600  cases so far 4  (1.4s)
+[w00600] done groups 600..700 cases 616 time 4.2s

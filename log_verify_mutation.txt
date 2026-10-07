@@ -1,0 +1,13 @@
+mutation test: 360 trials, 360 detected
+  d          30/30
+  LU         30/30
+  primitive  30/30
+  order      30/30
+  Phi_swap   30/30
+  IQ_t       30/30
+  CMsub      30/30
+  n0         30/30
+  weil_Dlat  30/30
+  weil_Dq    30/30
+  gens       30/30
+  drop_case  30/30

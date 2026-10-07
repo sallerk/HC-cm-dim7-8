@@ -1,0 +1,14 @@
+D8 (dihedral order 16), u=7
+   |stab|=1 |reflexsubgp|=1 rank=9 : 128 CM types
+   |stab|=2 |reflexsubgp|=2 rank=5 : 128 CM types
+SD16 (semidihedral), u=3
+   |stab|=1 |reflexsubgp|=1 rank=9 : 128 CM types
+   |stab|=1 |reflexsubgp|=2 rank=5 : 64 CM types
+   |stab|=2 |reflexsubgp|=1 rank=5 : 64 CM types
+M16 (modular), u=5
+   |stab|=1 |reflexsubgp|=1 rank=9 : 192 CM types
+   |stab|=1 |reflexsubgp|=2 rank=5 : 32 CM types
+   |stab|=2 |reflexsubgp|=1 rank=5 : 32 CM types
+C8xC2, u=1
+   |stab|=1 |reflexsubgp|=1 rank=9 : 224 CM types
+   |stab|=2 |reflexsubgp|=2 rank=5 : 32 CM types

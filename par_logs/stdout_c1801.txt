@@ -1,0 +1,6 @@
+g=8 n=16 NrTransitiveGroups=1954 range 1801..1850
+#I  Alternating recognition needed!
+#I  Alternating recognition needed!
+  16T1839 j=0 |G|=40320 typeorbits=5 prim=4 primdeg=1 (0.6s, total 3.0s)
+  16T1850 j=0 |G|=49152 typeorbits=1 prim=1 primdeg=0 (0.1s, total 4.0s)
+done g=8: (G,rho) pairs 34, time 4.0s

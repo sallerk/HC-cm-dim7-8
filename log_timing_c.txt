@@ -1,0 +1,12 @@
+g 6 |W| 46080 |Q| 23040 Q degree 30
+Q classes 2455 time 6.7s
+
+real	0m11.372s
+user	0m0.030s
+sys	0m0.060s
+g 7 |W| 645120 |Q| 322560 Q degree 14
+Q classes 6665 time 22.9s
+
+real	0m29.903s
+user	0m0.030s
+sys	0m0.030s

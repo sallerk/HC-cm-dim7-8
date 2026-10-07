@@ -1,0 +1,2 @@
+  [w03800] group 3800  cases so far 2  (0.2s)
+[w03800] done groups 3800..3900 cases 224 time 1.9s

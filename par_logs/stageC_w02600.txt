@@ -1,0 +1,2 @@
+  [w02600] group 2600  cases so far 4  (0.2s)
+[w02600] done groups 2600..2700 cases 404 time 2.6s

@@ -1,0 +1,60 @@
+=== m=17  Gal = C16  16T1 ; type G-orbits 16 (N-classes 3) ; primitive 16 ; primitive degenerate 0 (N-classes 0) ; d-dist(primitive) {0: 16} ; d-dist(all) {0: 16}
+   located: 16T1 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 16 type orbits
+   y^2=x^17+1, Phi={1..8}             Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=0 dimMT=9 primitive=True n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 3 ; d-dist {0: 3} ; primitive 3
+=== m=32  Gal = C8 x C2  16T5 ; type G-orbits 20 (N-classes 11) ; primitive 14 ; primitive degenerate 6 (N-classes 3) ; d-dist(primitive) {0: 8, 1: 4, 2: 2} ; d-dist(all) {4: 3, 0: 8, 1: 4, 2: 2, 6: 1, 7: 2}
+   located: 16T5 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 20 type orbits
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 7 ; d-dist {4: 1, 0: 3, 1: 2, 6: 1} ; primitive 5
+   Fermat (a,b,c)=(1, 1, 30)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 6, 25)          Phi(min rep)=[0, 1, 2, 3, 6, 7, 12, 13] d=1 dimMT=8 primitive=True n0=1 IQ t=[-4, 0] CMsub=[(2, (2,)), (2, (4,)), (4, (1, 1)), (4, (1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(8, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 7, 24)          Phi(min rep)=[0, 1, 2, 3, 4, 6, 13, 15] d=1 dimMT=8 primitive=True n0=1 IQ t=[0, 4] CMsub=[(2, (2,)), (2, (4,)), (4, (1, 1)), (4, (1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(8, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 14, 17)         Phi(min rep)=[0, 1, 2, 3, 12, 13, 14, 15] d=6 dimMT=3 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+=== m=34  Gal = C16  16T1 ; type G-orbits 16 (N-classes 3) ; primitive 16 ; primitive degenerate 0 (N-classes 0) ; d-dist(primitive) {0: 16} ; d-dist(all) {0: 16}
+   located: 16T1 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 16 type orbits
+   y^2=x^17+1, Phi={1..8}             Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=0 dimMT=9 primitive=True n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 6 ; d-dist {0: 6} ; primitive 6
+=== m=40  Gal = C4 x C2 x C2  16T2 ; type G-orbits 24 (N-classes 8) ; primitive 12 ; primitive degenerate 4 (N-classes 1) ; d-dist(primitive) {0: 8, 2: 4} ; d-dist(all) {4: 6, 0: 8, 2: 4, 7: 4, 6: 2}
+   located: 16T2 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 24 type orbits
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 11 ; d-dist {4: 5, 2: 2, 0: 3, 7: 1} ; primitive 5
+   Fermat (a,b,c)=(1, 1, 38)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 2, 37)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 14, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, 0, 4, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 3, 36)          Phi(min rep)=[0, 1, 2, 3, 4, 6, 13, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, 4, 0, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 8, 31)          Phi(min rep)=[0, 1, 2, 4, 5, 6, 11, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 9, 30)          Phi(min rep)=[0, 1, 2, 3, 4, 7, 13, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 10, 29)         Phi(min rep)=[0, 1, 2, 3, 5, 6, 12, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 11, 28)         Phi(min rep)=[0, 1, 3, 4, 5, 7, 10, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 18, 21)         Phi(min rep)=[0, 1, 2, 3, 12, 13, 14, 15] d=7 dimMT=2 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+=== m=48  Gal = C4 x C2 x C2  16T2 ; type G-orbits 24 (N-classes 8) ; primitive 12 ; primitive degenerate 4 (N-classes 1) ; d-dist(primitive) {0: 8, 2: 4} ; d-dist(all) {4: 6, 0: 8, 2: 4, 7: 4, 6: 2}
+   located: 16T2 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 24 type orbits
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 14 ; d-dist {4: 5, 0: 5, 2: 3, 7: 1} ; primitive 8
+   Fermat (a,b,c)=(1, 1, 46)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 4, 43)          Phi(min rep)=[0, 1, 2, 4, 5, 6, 11, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[0, 4, 4, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 5, 42)          Phi(min rep)=[0, 1, 2, 3, 4, 7, 13, 14] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, 0, 0, -4] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 6, 41)          Phi(min rep)=[0, 1, 3, 4, 5, 6, 10, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 7, 40)          Phi(min rep)=[0, 1, 2, 3, 5, 7, 12, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 10, 37)         Phi(min rep)=[0, 1, 2, 3, 4, 5, 14, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, 4, 0, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 16, 31)         Phi(min rep)=[0, 1, 2, 3, 4, 6, 13, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 17, 30)         Phi(min rep)=[0, 1, 2, 4, 5, 7, 11, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 22, 25)         Phi(min rep)=[0, 1, 2, 3, 12, 13, 14, 15] d=7 dimMT=2 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+=== m=60  Gal = C4 x C2 x C2  16T2 ; type G-orbits 24 (N-classes 8) ; primitive 12 ; primitive degenerate 4 (N-classes 1) ; d-dist(primitive) {0: 8, 2: 4} ; d-dist(all) {6: 2, 0: 8, 2: 4, 4: 6, 7: 4}
+   located: 16T2 j=0 (stored |G|=16)
+   direct-vs-located invariant mismatches: 0 of 24 type orbits
+   Fermat factor types H_{a,b,c} (one per G-orbit of types): 12 ; d-dist {6: 2, 2: 4, 4: 5, 7: 1} ; primitive 4
+   Fermat (a,b,c)=(1, 1, 58)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 6, 7] d=6 dimMT=3 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 2, 57)          Phi(min rep)=[0, 1, 2, 3, 4, 5, 14, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, -4, 0, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 3, 56)          Phi(min rep)=[0, 1, 2, 3, 6, 7, 12, 13] d=2 dimMT=7 primitive=True n0=1 IQ t=[0, 4, 0, -4] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 4, 55)          Phi(min rep)=[0, 1, 2, 3, 4, 7, 13, 14] d=2 dimMT=7 primitive=True n0=1 IQ t=[0, 0, 4, -4] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 5, 54)          Phi(min rep)=[0, 1, 2, 3, 5, 6, 12, 15] d=2 dimMT=7 primitive=True n0=1 IQ t=[4, 0, -4, 0] CMsub=[(2, (2,)), (2, (2,)), (2, (4,)), (2, (4,)), (4, (0, 2)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (1, 1)), (4, (2, 2)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1)), (8, (0, 0, 1, 1))] tiers=(None, 8, 8, 8, 8, 8, 8, 8)
+   Fermat (a,b,c)=(1, 6, 53)          Phi(min rep)=[0, 1, 2, 3, 4, 6, 13, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 7, 52)          Phi(min rep)=[0, 1, 2, 3, 5, 7, 12, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 10, 49)         Phi(min rep)=[0, 1, 3, 5, 10, 12, 14, 15] d=7 dimMT=2 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 18, 41)         Phi(min rep)=[0, 1, 2, 4, 11, 13, 14, 15] d=6 dimMT=3 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(1, 28, 31)         Phi(min rep)=[0, 1, 2, 3, 12, 13, 14, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(2, 3, 55)          Phi(min rep)=[0, 1, 2, 6, 11, 12, 13, 15] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+   Fermat (a,b,c)=(3, 5, 52)          Phi(min rep)=[0, 1, 3, 7, 10, 12, 13, 14] d=4 dimMT=5 primitive=False n0=None IQ t=[] CMsub=[] tiers=None
+SUMMARY (m, TI, type orbits, primitive degenerate orbits): [(17, '16T1', 16, 0), (32, '16T5', 20, 6), (34, '16T1', 16, 0), (40, '16T2', 24, 4), (48, '16T2', 24, 4), (60, '16T2', 24, 4)]

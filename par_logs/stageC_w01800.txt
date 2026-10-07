@@ -1,0 +1,2 @@
+  [w01800] group 1800  cases so far 4  (0.2s)
+[w01800] done groups 1800..1900 cases 364 time 2.2s
