@@ -1,0 +1,8 @@
+g 7 |W| 645120
+W(B7): classes of subgroups 55200 time 428.3s
+classes containing rho 6665
+stored classes 6665 | stored orders wrong: 0
+distinct invariants: route 2 597 | stored 597
+invariant multisets equal: True
+differences (first 20): []
+total time 456.8s

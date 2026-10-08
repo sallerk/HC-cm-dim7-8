@@ -1,0 +1,7 @@
+records: used_blocks_check 769, verify_blocks 769, reduced cases with d >= 1 in enum_g7.json 769
+key sets equal to the expected set: used_blocks_check True, verify_blocks True
+disagreements (strict, all, easy over 769 cases): 0
+  strict true in 429 cases (both programs)
+  all    true in 573 cases (both programs)
+  easy   true in 573 cases (both programs)
+RESULT: agree

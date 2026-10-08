@@ -1,0 +1,114 @@
+[
+{
+"gid": 7,
+"Phi": [
+0,
+1,
+2,
+7
+],
+"d": 1,
+"part": [
+3,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 7,
+"Phi": [
+0,
+1,
+6,
+7
+],
+"d": 1,
+"part": [
+3,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 28,
+"Phi": [
+0,
+1,
+2,
+7
+],
+"d": 1,
+"part": [
+3,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 28,
+"Phi": [
+0,
+1,
+6,
+7
+],
+"d": 1,
+"part": [
+3,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 59,
+"Phi": [
+0,
+1,
+6,
+7
+],
+"d": 1,
+"part": [
+4
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 83,
+"Phi": [
+0,
+1,
+6,
+7
+],
+"d": 1,
+"part": [
+4
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+}
+]

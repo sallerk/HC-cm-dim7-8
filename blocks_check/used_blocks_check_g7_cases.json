@@ -1,0 +1,11537 @@
+[
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 66,
+"Phi": [
+0,
+1,
+3,
+9,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+2,
+4,
+6,
+10,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 90,
+"Phi": [
+0,
+1,
+3,
+9,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 110,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 111,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 111,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 111,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 111,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 112,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 112,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 112,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 112,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 113,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 113,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 113,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 113,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+2,
+5,
+6,
+10,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+6,
+9
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 114,
+"Phi": [
+0,
+1,
+3,
+4,
+6,
+9,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 115,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 329,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 329,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 329,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 329,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 332,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 332,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 332,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 332,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 336,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 336,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 336,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 336,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 361,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 361,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 395,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 395,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 407,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 407,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 407,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 407,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 408,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 408,
+"Phi": [
+0,
+1,
+2,
+4,
+6,
+10,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 412,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 412,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 412,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 412,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 435,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 435,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 435,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 435,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 438,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 438,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 438,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 438,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 441,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 441,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 441,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 441,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 457,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 457,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 457,
+"Phi": [
+0,
+1,
+2,
+4,
+6,
+10,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 457,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 470,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 470,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 470,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 470,
+"Phi": [
+0,
+1,
+2,
+4,
+6,
+10,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 471,
+"Phi": [
+0,
+1,
+3,
+9,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 472,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 472,
+"Phi": [
+0,
+1,
+2,
+5,
+6,
+10,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 474,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 474,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 474,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 474,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+5,
+6,
+10,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 478,
+"Phi": [
+0,
+1,
+2,
+6,
+10,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+10,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 479,
+"Phi": [
+0,
+1,
+2,
+4,
+10,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 487,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 487,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 487,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 487,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 512,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 512,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 512,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 512,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 513,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 513,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 520,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 520,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 520,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 520,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 538,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 538,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 538,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 538,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 545,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 545,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 545,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 545,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 553,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 553,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 553,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 553,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 553,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 558,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 558,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 561,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 561,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 577,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 587,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 587,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 589,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 589,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 590,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 590,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 592,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 592,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 592,
+"Phi": [
+0,
+1,
+2,
+4,
+6,
+10,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 592,
+"Phi": [
+0,
+1,
+3,
+4,
+6,
+9,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 594,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 594,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 594,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 594,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 595,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 596,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 596,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 596,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 809,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 809,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 812,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 812,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1162,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1162,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1162,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1162,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1190,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1190,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1222,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1222,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1222,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1222,
+"Phi": [
+0,
+1,
+3,
+4,
+9,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1230,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1230,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1233,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1233,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1252,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1252,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1253,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1253,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1258,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1258,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1258,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1258,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1271,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1271,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1271,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1271,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1279,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1279,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1280,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1280,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1281,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1281,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1283,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1283,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1311,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1311,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1311,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1311,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1360,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1360,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1360,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1360,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1364,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1364,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1374,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1374,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1382,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1382,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1383,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1383,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1384,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1384,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1386,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1386,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1386,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1386,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1399,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1399,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1399,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1399,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1418,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1418,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1419,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1419,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1421,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1421,
+"Phi": [
+0,
+1,
+3,
+5,
+9,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1423,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1423,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 1435,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1435,
+"Phi": [
+0,
+1,
+2,
+5,
+6,
+10,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1439,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1439,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1458,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1458,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1458,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1458,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1459,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1459,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1460,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1460,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1461,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1461,
+"Phi": [
+0,
+1,
+2,
+5,
+6,
+10,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1462,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1462,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1463,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1463,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1464,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1464,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1464,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1464,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1465,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1465,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1466,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1466,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1467,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+10,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1481,
+"Phi": [
+0,
+1,
+2,
+4,
+10,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1483,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1514,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1514,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1517,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1517,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1517,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1517,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1519,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1519,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1577,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1577,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1579,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1579,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1601,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1601,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1605,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1605,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1605,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1605,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1617,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1617,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1629,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1629,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1629,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1629,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1637,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1637,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1650,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1650,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1653,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1653,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1659,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1659,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1664,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1664,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1665,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1665,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1668,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1668,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1669,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1669,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1672,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1672,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1692,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1692,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1693,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1693,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1696,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1696,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1696,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1696,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1697,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1697,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1697,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1697,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1699,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1699,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1699,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1699,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1708,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1708,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1717,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1717,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1717,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1721,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1721,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1727,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1727,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1734,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1734,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1737,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1737,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1744,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1744,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1744,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1744,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1744,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1754,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1758,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1758,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1761,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1762,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1762,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1762,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1762,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1764,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1765,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1765,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1766,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1766,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1769,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1769,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1769,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1769,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1769,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1773,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1773,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1776,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1776,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1776,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1776,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1778,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1778,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1779,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1779,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1779,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1779,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 1780,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1782,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1784,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 1784,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2200,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2200,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2769,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2769,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2772,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2772,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2779,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2779,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2805,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2805,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2818,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2818,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2841,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2841,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2844,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2844,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2849,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2849,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2857,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2857,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2859,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2859,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2862,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2862,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2871,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2871,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2871,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2871,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 2949,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2949,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2951,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2951,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2951,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2951,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2953,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2953,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2954,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2954,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2954,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2956,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2956,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2959,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2959,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2959,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2959,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2961,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2962,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2962,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2963,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2963,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2965,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2965,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2967,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2967,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2968,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2968,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2969,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2969,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2971,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2971,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2973,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2975,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2975,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2977,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2977,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2979,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2979,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2991,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2991,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 2991,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 2991,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3033,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3089,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3093,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3093,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3124,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3124,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3124,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+10,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3142,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3147,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3147,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3147,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3149,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3171,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3171,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3171,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3175,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3175,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3175,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+10,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3177,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3239,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3239,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3242,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3242,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3247,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3247,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3251,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3251,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3254,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3254,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+6,
+10
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3282,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3282,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3283,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3283,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3302,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3302,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3306,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3306,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3344,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3344,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3353,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3353,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3353,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3353,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3361,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 3380,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3380,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3397,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3397,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3401,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3403,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3408,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3408,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3408,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3410,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3412,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3412,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3414,
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+9,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3416,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3417,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3417,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3422,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3424,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3424,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+2,
+5,
+10,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 3428,
+"Phi": [
+0,
+1,
+9,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4347,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4347,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4359,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4359,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4359,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4359,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4361,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4363,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4363,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4363,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4363,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4364,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4364,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4365,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4365,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4369,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4369,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4372,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4372,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4372,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4372,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4373,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4373,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4373,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4374,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4375,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4378,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4381,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4381,
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+10,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4382,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4382,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4382,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4383,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4383,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4384,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4384,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4384,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4386,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4387,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4387,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4390,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4393,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4393,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4481,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4485,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4486,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4649,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4706,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4706,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4706,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4742,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4743,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4746,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4747,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4770,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4781,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4782,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4782,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4782,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4783,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4784,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4785,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4785,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4785,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4786,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4787,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4787,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4787,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4790,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4792,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4793,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4793,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4793,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4794,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4795,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4797,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4814,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4821,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4822,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4823,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4824,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4824,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4824,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 4825,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4839,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4839,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4849,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4850,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4875,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4881,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4881,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4881,
+"Phi": [
+0,
+1,
+2,
+6,
+10,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4881,
+"Phi": [
+0,
+1,
+6,
+9,
+10,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4882,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4882,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4882,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4882,
+"Phi": [
+0,
+1,
+3,
+4,
+6,
+9,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4883,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4883,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4884,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4884,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4884,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 4884,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4884,
+"Phi": [
+0,
+1,
+9,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 4885,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5376,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5383,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5383,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5384,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5384,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5385,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5385,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5395,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5403,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5403,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5404,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5404,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5408,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5412,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5413,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5413,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+11,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5414,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5418,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5420,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5421,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5426,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 5426,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 5426,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5427,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5573,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5770,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5771,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5774,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5775,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5778,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5783,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5798,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5799,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5801,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5804,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 5804,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5804,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": true,
+"easy": true
+},
+{
+"gid": 5805,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5816,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5818,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5829,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5844,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+6,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 5844,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5844,
+"Phi": [
+0,
+1,
+2,
+6,
+10,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 5844,
+"Phi": [
+0,
+1,
+6,
+9,
+10,
+11,
+12
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 5846,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6040,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6041,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6042,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6043,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6044,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6045,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6046,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6063,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6063,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6066,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6083,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6083,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6083,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6083,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6083,
+"Phi": [
+0,
+1,
+9,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6300,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6376,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6377,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6379,
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+6,
+11
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6380,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6381,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6382,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6384,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6402,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6402,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6402,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6402,
+"Phi": [
+0,
+1,
+2,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6402,
+"Phi": [
+0,
+1,
+9,
+10,
+11,
+12,
+13
+],
+"strict": false,
+"all": false,
+"easy": false
+},
+{
+"gid": 6403,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6404,
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6544,
+"Phi": [
+0,
+1,
+2,
+3,
+6,
+11,
+12
+],
+"strict": true,
+"all": true,
+"easy": true
+},
+{
+"gid": 6556,
+"Phi": [
+0,
+1,
+2,
+3,
+11,
+12,
+13
+],
+"strict": true,
+"all": true,
+"easy": true
+}
+]

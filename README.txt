@@ -7,7 +7,8 @@ programs enumerate the CM types up to conjugacy, find the degenerate ones (Hodge
 classes) and determine which Weil classes (for which CM fields, on which products of powers of A) would generate
 their Hodge classes.  This extends the enumeration of the CM-sixfold work (repository HC-cm-sixfolds, folder
 enumeration/) from g <= 6 to g = 7, 8; the model, the conventions and part of the code are shared with it
-(sections 2 and 4).
+(sections 2 and 4).  The note "Degenerate CM types and Weil classes in dimensions seven and eight" (Kevin Saller,
+draft of 7 October 2026) is based on these computations.
 
 Status: the results in section 1 carry status labels (defined there).  Not refereed by a human expert.
 
@@ -95,6 +96,12 @@ R4  Consequence for the Hodge conjecture.  [INFERENCE; the results used are CITE
     Rufino, Villaflor, arXiv:2609.27301) together with Shioda's Theorem IV (Math. Ann. 245 (1979)).  For all
     other members the classification says which Weil classes would be needed, not that the Hodge conjecture
     holds.
+    Tier (i): the 46 classes have a split polarization for K (Theorem A of the CM-sixfold note, section 9), so the
+    Hodge conjecture for all their powers would follow from the algebraicity of the Weil classes on split abelian
+    eightfolds, which a manuscript released by OpenAI claims ("Algebraicity of Weil classes on split abelian
+    eightfolds").  Another manuscript there ("The rational Hodge conjecture for CM abelian varieties") claims the
+    Hodge conjecture for all CM abelian varieties, which would cover all classes of this repository.  Neither has
+    been refereed, and neither was checked here (section 9).
 
 R5  CM abelian 7-folds, not necessarily simple (Stage C).  [COMPUTED by stageC.py; VERIFIED by verify_enumC.py
     (all 6665 groups and 29697 cases), verify_generalC.py together with verify_generalC3.py (general tier, all 340
@@ -134,13 +141,32 @@ R5  CM abelian 7-folds, not necessarily simple (Stage C).  [COMPUTED by stageC.p
     - A strict pass always has D <= 6 (balance forces even D <= 6 for g = 7).  So the reduced configurations with
       minimal Weil dimension > 6 are exactly 83 classes / 196 cases; their minimal D is 8, 10, 16, or 24 (the two
       (4,3) classes with d = 3).  One line per class: list_C_compact.txt.
-    - Reading of the families [INFERENCE from the data]: (6,1), D = 8: A_E x E_K with K-signature (4,2),
-      Lambda_U = Z(Nm_{E/K} - 2[E_K]), Weil 8-fold A_E x E_K^2; (6,1), D = 10: K-signature (5,1),
-      Lambda_U = Z(Nm - 4[E_K]), Weil 10-fold A_E x E_K^4; (5,1,1): the (5,1) family of g = 6 times an unrelated
-      elliptic curve, A_E x E_K^3; (4,3), d = 1: A_3^2 x A_4, D = 10; (4,3), d = 3 (gids 592 and 1779): a CM
-      4-fold (8T13 or 8T24) and a CM 3-fold (6T6 or 6T11, sextic field with A4 or S4 closure), Q-span at D = 18
-      (sextic K') and lattice at D = 24 (degree 12); the (4,2,1), (4,1,1,1) and (2,2,2,1) entries contain the
-      failing families of g = 6.
+    - Kinds (a)-(d) [COMPUTED by used_blocks_check_g7.py; VERIFIED by verify_blocks.py; compared case by case by
+      compare_blocks_g7.py: 769 = 769 cases, 0 disagreements]: in the 573 reduced cases with d >= 1 that pass with
+      D <= 6 (429 strict, 144 with multiplicities), the Weil characters of the kinds (a)-(d) of the CM-sixfold
+      note (D = 2; D = 4; D = 6 with a factor of odd dimension; a simple CM sixfold used once) generate Lambda_U;
+      no other kind of B with D <= 6 occurs.  Consequence [INFERENCE; the results used are CITED]: assuming
+      Markman's theorem, the Hodge conjecture holds for all powers of every CM abelian variety of reduced
+      dimension 7 outside the 83 classes (Corollary 1.3 of the note).
+    - Class list, second route [COMPUTED with GAP]: route2_g7.py computes the classes of subgroups of W(B7) itself
+      (55200, of which 6665 contain rho): the same number of classes, orders and multiset of invariants as
+      stageC_classes.json; route2_match_g7.py matches each of the 6665 groups of enum_g7.json, by IsConjugate in
+      W(B7), to a different one of these classes (0 problems).  Both routes rest on GAP.
+    - Reading of the families [INFERENCE from the data; checked against the data in a review of the note]:
+      (6,1), d = 1, D = 8: A_E x E_K with K-signature (4,2), Lambda_U = Z(Nm_{E/K} - 2[E_K]), Weil 8-fold
+      A_E x E_K^2; (6,1), d = 1, D = 10: K-signature (5,1), Lambda_U = Z(Nm - 4[E_K]), Weil 10-fold A_E x E_K^4;
+      (6,1), d = 2: A_E lies in one of the six classes of Table 1 of the CM-sixfold note whose CM field has a
+      second imaginary quadratic subfield, with K_1-signature (3,3) and K_2-signature (4,2), and E_K has CM by
+      K_2; the imaginary quadratic characters span Lambda_U only with index 2, and Weil classes for a quartic CM
+      field complete it at D = 8; (5,1,1): the (5,1) family of g = 6 times an unrelated elliptic curve,
+      A_E x E_K^3; (4,3), d = 1: A_3^2 x A_4, D = 10; (4,3), d = 3 (gids 592 and 1779): a CM 4-fold (8T13 or
+      8T24) and a CM 3-fold (6T6 or 6T11, sextic field with A4 or S4 closure), Q-span at D = 18 (sextic K') and
+      lattice at D = 24 (degree 12); (4,2,1) and (4,1,1,1) with d = 2, and (2,2,2,1): one elliptic curve does not
+      enter Lambda_U, and the other factors form a member of the failing family (4,2), (4,1,1) or (2,2,2) of
+      g = 6; in the rows with d = 3 every factor enters Lambda_U.
+    - In the rows (6,1) with d = 1, D = 8 and (5,1,1) (24 classes), Lambda_U is generated by the character of one
+      Weil 8-fold for an imaginary quadratic field, which has a split polarization (Lemma 2.2 of the CM-sixfold
+      note); so the claim on split abelian eightfolds quoted in R4 would cover these classes.
 
 R6  Controls.
     - Cyclotomic fields Q(zeta_m), phi(m) = 16 (controls_cyclo.py) [COMPUTED]: each field analysed directly and
@@ -182,7 +208,9 @@ R7  Relation to the literature found.  [INFERENCE from a limited search]
     Kida-Yanai 2022 construct CM types of large index of degeneracy from groups C_n x D4 (degree 8n); this is not
     a classification, and their degree-16 case was not compared with R2 (only the abstract and first page were
     read).  No classification of degenerate CM types of degree 14 or 16 was found; the full degree-16 list, the
-    tiers and the d = 4 family appear to be new to the extent of this search.
+    tiers and the d = 4 family appear to be new to the extent of this search.  In the manuscripts released by
+    OpenAI (R4, section 9) keyword searches of the CM manuscript found no classification of degenerate CM types;
+    of the eightfold manuscript only the abstract was read.
 
 
 2. MODEL AND CONVENTIONS
@@ -257,6 +285,11 @@ Main computation (Sage + GAP through libgap; run with "sage -python" in the dock
   controls_lit.py      literature controls (R6) -> controls_lit_out.txt
   timing_c.py g        runtime probe: ConjugacyClassesSubgroups(W(B_g)/<rho>) (stdout, see log_timing_c.txt)
   probe.py, probe_norm.py n           feasibility and runtime probes (stdout: probe_out.txt, probe_norm16.txt)
+  route2_g7.py         second route for the Stage C class list: ConjugacyClassesSubgroups of W(B7) itself, keeping
+                       the classes that contain rho; compares the number of classes, the orders and a multiset of
+                       invariants with stageC_classes.json -> log_route2_g7.txt (stdout)
+  route2_match_g7.py   matches each group of enum_g7.json, by IsConjugate in W(B7), to a different class of the
+                       second route (candidates with the same invariants) -> log_route2_match_g7.txt (stdout)
 Helpers (pure Python)
   summarize_g8.py      tables of Stage B from trans_g8.json, struct_g8.json, ext_weil_D32.json,
                        ext_weil_D48_sel.json -> table_g8.txt
@@ -264,6 +297,9 @@ Helpers (pure Python)
   compact_g8.py        one line per degenerate degree-16 class -> table_g8_compact.txt
   summarize_C.py       Stage C summary -> summary_C.txt
   compact_C.py         one line per reduced Stage C class with minimal Weil dimension > 6 -> list_C_compact.txt
+  used_blocks_check_g7.py   the kinds (a)-(d) check of the CM-sixfold enumeration at g = 7 (section 4)
+                       -> blocks_check/used_blocks_check_g7_out.txt (stdout),
+                          blocks_check/used_blocks_check_g7_cases.json
 Independent checks (pure Python 3, standard library only: own Schreier-Sims, block systems, subgroup enumeration,
 coset actions, Hermite normal form; no Sage/GAP)
   verify_enum.py, verify_general.py   libraries from the CM-sixfold enumeration (section 4).
@@ -287,6 +323,13 @@ coset actions, Hermite normal form; no Sage/GAP)
                        INFERENCE) -> log_verify_generalC3.txt (stdout)
   verify_extC.py Dmax file      Stage C extended levels -> log_verify_extC_D16.txt, log_verify_extC_D24.txt
   fermat_check.py      Fermat-curve factor types by (stabilizer, rank) per class of triples -> fermat_check_out.txt
+  verify_blocks.py in.json out.json   kinds (a)-(d) check written separately from the CM-sixfold code; for every
+                       case it recomputes the G-orbit of Phi, Lambda_U, d and reducedness, for the groups used the
+                       order (Schreier-Sims), the imaginary quadratic subfields (F_2 systems), the balanced Weil
+                       characters with D <= 6 and their kinds, and lattice generation (see its header)
+                       -> blocks_check/verify_blocks_g{g}.json and (stdout) blocks_check/verify_blocks_g{g}_out.txt,
+                       for g = 7 and, as controls, g = 4, 5, 6 (inputs from HC-cm-sixfolds, section 5)
+  compare_blocks_g7.py case-by-case comparison of the two kinds checks -> blocks_check/compare_blocks_g7_out.txt
 Data (JSON; permutations are 0-based lists p with p[x] = image of x)
   trans_g7_all.json    Stage A; trans_g8.json  Stage B: {g, (kmin, kmax,) groups: [{k, TI, j, n_central_fpf_inv,
                        n_rho_classes, gens, order, systems (block systems), cm_systems, NW_order, ntypeorbits, time,
@@ -327,6 +370,8 @@ Tables and outputs
   verify_trans_g7.txt, verify_trans_g8.txt, verify_out_g7.txt, log_verify_*.txt   checks (R1, R2, R3, R5).
   log_trans_g7_all.txt, log_run_par_g8.txt, log_stageC_run.txt, log_timing_c.txt, par_logs/   run logs (stdout;
                        some end with the output of the shell's time command).
+  blocks_check/        outputs of the kinds (a)-(d) checks (R5); log_route2_g7.txt, log_route2_match_g7.txt: the
+                       second GAP route (R5).
   probe_norm16.txt, probe_out.txt     output of the probes (probe_out.txt was produced by the re-run of section 7;
                        the output of the original run was not kept).
 Line endings: the outputs of the pure-Python scripts were written on Windows and have CRLF line endings (except the
@@ -356,6 +401,8 @@ Scripts of this repository that are derived from the CM-sixfold code:
   weil_tiers.py       implements the Weil-character model of general_weil2.py with GAP's LowIndexSubgroups.
   stageC.py           writes records in the format of run_enum.py, with an additional 'general' tier.
   verify_ext.py, verify_generalC.py   import elements and all_subgroups from verify_general.py.
+  used_blocks_check_g7.py = enumeration/used_blocks_check.py with the five changes listed in its header (g = 7
+                      only; no general_weil2 data; one record per case written to blocks_check/).
 Other scripts of the CM-sixfold enumeration (general_weil2.py, run_enum.py, ...) are not needed here.
 Each output line of verify_generalC.py and verify_generalC3.py shows two values of Dmin: first the value recomputed
 by the checking script ("verifier Dmin"), then the value stored in enum_g7.json by stageC.py (printed as
@@ -413,6 +460,15 @@ worker processes in one container with --cpus=7; the number of workers changes o
 log_run_par_g8.txt and log_stageC_run.txt (section 7).  "stageC.py prep" chooses subgroup representatives that can
 differ from run to run (section 7); to reproduce the stored Stage C files exactly, keep the stored
 stageC_classes.json and start Stage C with "run_parC.py".
+Added after the re-run of section 7 and run once (2026-10-07):
+  SAGE route2_g7.py > log_route2_g7.txt                (457 s, printed; run with --cpus=1 --memory=4g)
+  SAGE route2_match_g7.py > log_route2_match_g7.txt    (561 s, printed; the same limits)
+  python used_blocks_check_g7.py > blocks_check/used_blocks_check_g7_out.txt
+  python verify_blocks.py enum_g7.json blocks_check/verify_blocks_g7.json > blocks_check/verify_blocks_g7_out.txt
+  python verify_blocks.py ../HC-cm-sixfolds/enumeration/enum_g6.json blocks_check/verify_blocks_g6.json
+         > blocks_check/verify_blocks_g6_out.txt      (likewise g = 4, 5; HC-cm-sixfolds checked out next to
+                                                    this folder)
+  python compare_blocks_g7.py > blocks_check/compare_blocks_g7_out.txt
 Not part of the pipeline above:
   python verify_generalC.py                about 50 min for 334 of the 340 cases in the original run; it was stopped
                                            there, since the remaining 6 cases (|G| = 720, 1440) are much slower
@@ -478,6 +534,10 @@ cases).  probe.py was re-run, but the output of its original run had not been ke
 output.  The scripts in cm16_control/ were re-run (their outputs had not been kept either; the counts in
 sections A-C of cm16_control_data.txt agree with the re-run outputs).  Not part of this repository and not re-run:
 the separate code of the spot check in R6.
+Added after the re-run (section 5): route2_g7.py, route2_match_g7.py, used_blocks_check_g7.py, verify_blocks.py
+and compare_blocks_g7.py with their outputs.  They were run once and not re-run in an empty folder.
+verify_blocks.py was revised after an internal code review (its own test of reducedness, Schreier-Sims and
+saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before and after the revision.
 
 
 8. NOT CHECKED INDEPENDENTLY; CAVEATS
@@ -485,8 +545,8 @@ the separate code of the spot check in R6.
 - Not independently verified: the N_W(G)-class labels (GAP normalizers); the TransitiveIdentification labels;
   that GAP's TransitiveGroups(16) and centre computations give every pair (G, rho) -- the correspondence between
   pairs (T, rho' up to the normalizer of T in S_16) and W(B8)-classes is INFERENCE, it was not matched against the
-  subgroup lattice of W(B8), which is too large; the Stage C class list (one GAP route only; at g = 6 two routes
-  agreed in the CM-sixfold enumeration).
+  subgroup lattice of W(B8), which is too large; the completeness of the Stage C class list (two GAP routes agree
+  class by class, R5, but both rest on GAP's ConjugacyClassesSubgroups).
 - The Weil framework is the model of section 2: CM fields K' inside the Galois closure, acting on sub-products of
   powers of A, with lattice generation by Weil characters.  K' outside the closure, auxiliary abelian varieties
   and constructions other than Weil classes were not considered.  The search up to D = 16 is exhaustive within the
@@ -494,8 +554,9 @@ the separate code of the spot check in R6.
 - Lattice versus Q-span matters (Milne, Thm 1.8 needs the exact lattice): the 37 tier-(ii) classes with
   imaginary-quadratic Q-span and the 10 tier-(iv) classes with Q-span at D = 16 have only "rational"
   explanations at the smaller D.
-- Nothing at D >= 8 is covered by known algebraicity results, except the Fermat-type members of R4.  The
-  classification says which Weil classes would be needed, not that the Hodge conjecture holds.  [INFERENCE]
+- Nothing at D >= 8 is covered by known algebraicity results, except the Fermat-type members of R4 (the
+  unrefereed manuscripts quoted in R4 claim more).  The classification says which Weil classes would be needed,
+  not that the Hodge conjecture holds.  [INFERENCE]
 - Realisability by actual CM fields was checked only for the examples listed in R6.
 - n0 = 1 for every degree-16 class; the degree-16 case of the construction of Kida-Yanai 2022 was not compared.
 - Signs of t and r depend on which block contains the point 0; the invariants are |t| and the unordered pairs
@@ -534,8 +595,14 @@ the separate code of the spot check in R6.
 - J. S. Milne, The Tate and standard conjectures for certain abelian varieties, arXiv:2112.12815 (Thm 1.8).
 - M. Miranda, H. Movasati, L. Rufino, R. Villaflor, Lengths of Hodge characters in Fermat varieties,
   arXiv:2609.27301.
+- OpenAI, The rational Hodge conjecture for CM abelian varieties (manuscript dated 30 September 2026) and
+  Algebraicity of Weil classes on split abelian eightfolds (manuscript dated 18 September 2026), in the repository
+  https://github.com/openai/math, commit adc7f12, accessed 2026-10-07 (not refereed; of the first the
+  introduction and keyword searches, of the second the abstract; their arguments were not checked).
 - K. A. Ribet, Division fields of abelian varieties with complex multiplication, Mem. Soc. Math. France (2) 2
   (1980), 75-94 ((3.11), (3.12): Lenstra's examples).
+- K. Saller, Split Weil structures and the Hodge conjecture for some abelian sixfolds and their powers, 2026,
+  DOI 10.5281/zenodo.23199503 (the CM-sixfold note: Theorem A, Lemma 2.2, Table 1, Prop. 5.1).
 - T. Shioda, The Hodge conjecture for Fermat varieties, Math. Ann. 245 (1979), 175-184 (Theorem IV).
 - S. P. White, Sporadic cycles on CM abelian varieties, Compositio Math. 88 (1993), 123-142.
 - H. Yanai, On the index of degeneracy of a CM abelian variety, J. Theor. Nombres Bordeaux 27 (2015), 815-820

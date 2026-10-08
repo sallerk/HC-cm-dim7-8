@@ -1,0 +1,428 @@
+[
+{
+"gid": 16,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 4
+},
+{
+"gid": 16,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 4
+},
+{
+"gid": 26,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 26,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 32,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 32,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 33,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 33,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 70,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 70,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 75,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 75,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 75,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 82,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 82,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+3,
+1,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 130,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 136,
+"Phi": [
+0,
+1,
+2,
+4,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 136,
+"Phi": [
+0,
+1,
+2,
+8,
+9
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": false,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 136,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 1
+},
+{
+"gid": 137,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+},
+{
+"gid": 166,
+"Phi": [
+0,
+1,
+4,
+7,
+8
+],
+"d": 1,
+"part": [
+4,
+1
+],
+"strict": true,
+"all": true,
+"easy": true,
+"hard_present": false,
+"nK": 2
+}
+]
