@@ -10,7 +10,8 @@ eight* (Kevin Saller, draft) is based on these computations.
 with its status label.
 - Simple CM abelian 7-folds have no degenerate CM types. A second program agrees, and so does the known theorem for
   prime dimension.
-- Simple CM abelian 8-folds have 257 classes of primitive degenerate CM types. For each class the repository
+- Simple CM abelian 8-folds have 257 possible classes of primitive degenerate CM types (classes of pairs (Galois
+  group, CM type); not all are known to arise from CM fields). For each class the repository
   determines which Weil classes would generate its Hodge classes: for which CM fields, and on which varieties of
   Weil type of dimension D, where D ranges from 8 to 48. A second program checked this.
 - For all CM abelian 7-folds (not necessarily simple), the reduced configurations whose Hodge classes need Weil
@@ -19,13 +20,13 @@ with its status label.
   (arXiv:2502.03415) holds suffice. So, assuming that theorem, the Hodge conjecture holds for all powers of CM
   abelian varieties of reduced dimension 7 outside these 83 classes. Two separately written programs agree case by
   case.
-- None of these Weil classes is known to be algebraic. The exception is members that are factors of Jacobians of
-  Fermat curves of degree 32, 40, 48 or 60, which are covered by known results on Fermat varieties. The results
-  therefore say which Weil classes would be needed, not that the Hodge conjecture holds.
-- Manuscripts released by OpenAI ([github.com/openai/math](https://github.com/openai/math)), which have not been
-  refereed and were not checked here, claim the Hodge conjecture for all CM abelian varieties and the algebraicity
-  of Weil classes on split abelian eightfolds. If they are correct, the statements on the Hodge conjecture here
-  are special cases.
+- None of these Weil classes is known to be algebraic. The exceptions are members that are factors of Jacobians of
+  Fermat curves of degree 32, 40, 48 or 60, which are covered by known results on Fermat varieties, and the 7-fold
+  class (2,2,2,1), covered by a result of Ramon Mari on products of abelian surfaces. The results therefore say
+  which Weil classes would be needed, not that the Hodge conjecture holds.
+- A manuscript released by OpenAI ([github.com/openai/math](https://github.com/openai/math)), which has not been
+  refereed and was not checked here, claims the Hodge conjecture for all CM abelian varieties. If it is correct,
+  the statements on the Hodge conjecture here are special cases.
 
 **Status:** not refereed by a human expert. The checking programs are pure Python and separate from the Sage/GAP
 enumeration. Some steps rest on GAP alone; README.txt, section 8, lists them.
