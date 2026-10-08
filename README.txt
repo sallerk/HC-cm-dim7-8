@@ -601,7 +601,7 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
   introduction and keyword searches, of the second the abstract; their arguments were not checked).
 - K. A. Ribet, Division fields of abelian varieties with complex multiplication, Mem. Soc. Math. France (2) 2
   (1980), 75-94 ((3.11), (3.12): Lenstra's examples).
-- K. Saller, Split Weil structures and the Hodge conjecture for some abelian sixfolds and their powers, 2026,
+- K. Saller, Split Weil structures on abelian sixfolds and the Hodge conjecture, 2026,
   DOI 10.5281/zenodo.23199503 (the CM-sixfold note: Theorem A, Lemma 2.2, Table 1, Prop. 5.1).
 - T. Shioda, The Hodge conjecture for Fermat varieties, Math. Ann. 245 (1979), 175-184 (Theorem IV).
 - S. P. White, Sporadic cycles on CM abelian varieties, Compositio Math. 88 (1993), 123-142.
