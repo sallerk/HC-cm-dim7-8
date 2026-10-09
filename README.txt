@@ -22,6 +22,7 @@ CONTENTS
   7. Re-run for this release
   8. Not checked independently; caveats
   9. Literature
+  10. Checks of 2026-10-08 (external referee report)
 
 
 1. RESULTS
@@ -110,7 +111,8 @@ R4  Consequence for the Hodge conjecture.  [INFERENCE; the results used are CITE
 
 R5  CM abelian 7-folds, not necessarily simple (Stage C).  [COMPUTED by stageC.py; VERIFIED by verify_enumC.py
     (all 6665 groups and 29697 cases), verify_generalC.py together with verify_generalC3.py (general tier, all 340
-    reduced strict failures; verify_generalC3.py rests on an argument stated in its header, INFERENCE) and
+    reduced strict failures; verify_generalC3.py rests on an argument stated in its header, INFERENCE; see
+    section 10 for the rerun of verify_generalC.py) and
     verify_extC.py (D = 16 and 24)]
     - 6665 W(B7)-classes of subgroups containing rho; 29697 cases (G-orbits of CM types); 13962 classes.
     - Reduced pairs (products of pairwise non-isogenous simple factors): 5940 cases (3870 classes), d = 0: 5171,
@@ -332,7 +334,7 @@ coset actions, Hermite normal form; no Sage/GAP)
   verify_enumC.py 7    Stage C, all cases (verify_enum.py of the CM-sixfold enumeration with Schreier-Sims group
                        orders, section 4) -> verify_out_g7.txt
   verify_generalC.py [maxorder] general tier of the 340 reduced strict failures of Stage C (all subgroups)
-                       -> log_verify_generalC.txt (stopped by hand after 334 of 340 cases, see section 5)
+                       -> log_verify_generalC.txt (336 of 340 cases, rerun of 2026-10-08, section 10)
   verify_generalC3.py  general tier of the 76 (6,1) cases by a block-quotient argument (stated in its header,
                        INFERENCE) -> log_verify_generalC3.txt (stdout)
   verify_extC.py Dmax file      Stage C extended levels -> log_verify_extC_D16.txt, log_verify_extC_D24.txt
@@ -484,9 +486,8 @@ Added after the re-run of section 7 and run once (2026-10-07):
                                                     this folder)
   python compare_blocks_g7.py > blocks_check/compare_blocks_g7_out.txt
 Not part of the pipeline above:
-  python verify_generalC.py                about 50 min for 334 of the 340 cases in the original run; it was stopped
-                                           there, since the remaining 6 cases (|G| = 720, 1440) are much slower
-                                           (verify_generalC3.py covers them); not re-run.
+  python verify_generalC.py                about 40 min for the first 336 cases; the 4 cases of gid 6402
+                                           (|G| = 1440) take much longer (section 10).
 
 
 6. SOFTWARE VERSIONS
@@ -532,19 +533,21 @@ order (the gids) were the same in every run, but the chosen subgroups and genera
 the 6665 entries of stageC_classes.json differ from the stored ones (61 with other generators of the same subgroup,
 5 with a conjugate subgroup), and two further runs of "stageC.py prep" differed from the stored file in 48 and 66
 entries.  In all cases GAP confirmed that the subgroups have the same order and are conjugate in W(B7); the cause of
-the variation was not identified.  Accordingly the re-run enum_g7.json differs from the stored one in the records of
-these 66 gids (generators; the data of the imaginary quadratic fields, which refer to the generators and to the
-numbering of the fields; for the 5 conjugate subgroups the stored representatives Phi and the coordinates of
-Lambda_U).  After transport by an element of W(B7) that conjugates the re-run subgroup to the stored one, all 188
-case records of these gids agree with the stored ones in every field (Lambda_U and the Weil lattices in transported
-coordinates; the imaginary-quadratic data without their labels); the records of the other 6599 gids are identical.
+the variation was not identified at the time (section 10 localizes it inside GAP).  Accordingly the re-run
+enum_g7.json differs from the stored one in the records of these 66 gids (generators; the data of the imaginary
+quadratic fields, which refer to the generators and to the numbering of the fields; for the 5 conjugate subgroups
+the stored representatives Phi and the coordinates of Lambda_U).  After transport by an element of W(B7) that
+conjugates the re-run subgroup to the stored one, all 188 case records of these gids agree with the stored ones in
+every field (Lambda_U and the Weil lattices in transported coordinates; the imaginary-quadratic data without their
+labels); the records of the other 6599 gids are identical.
 All files derived from enum_g7.json were reproduced (list above).
 In a second re-run of Stage C from the stored stageC_classes.json ("run_parC.py 100 2", then the pure-Python
 Stage C steps), enum_g7.json, all 67 chunk files and all derived files came out byte-identical to the stored ones
 (verify_out_g7.txt up to its timing value).  The scripts used for these comparisons are not part of this
 repository.
-Not re-run: verify_generalC.py (see section 5; its stored output log_verify_generalC.txt is partial, 334 of 340
-cases).  probe.py was re-run, but the output of its original run had not been kept; probe_out.txt is the re-run
+verify_generalC.py was not re-run here; it was rerun on 2026-10-08 (section 10: 336 of 340 cases when this
+commit was made).
+probe.py was re-run, but the output of its original run had not been kept; probe_out.txt is the re-run
 output.  The scripts in cm16_control/ were re-run (their outputs had not been kept either; the counts in
 sections A-C of cm16_control_data.txt agree with the re-run outputs).  Not part of this repository and not re-run:
 the separate code of the spot check in R6.
@@ -556,7 +559,8 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
 
 8. NOT CHECKED INDEPENDENTLY; CAVEATS
 ======================================================================================================================
-- Not independently verified: the N_W(G)-class labels (GAP normalizers); the TransitiveIdentification labels;
+- The N_W(G)-class labels (GAP normalizers) were verified on 2026-10-08 without GAP (section 10).
+- Not independently verified: the TransitiveIdentification labels;
   that GAP's TransitiveGroups(16) and centre computations give every pair (G, rho) -- the correspondence between
   pairs (T, rho' up to the normalizer of T in S_16) and W(B8)-classes is INFERENCE, it was not matched against the
   subgroup lattice of W(B8), which is too large; the completeness of the Stage C class list (two GAP routes agree
@@ -571,9 +575,10 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
 - Nothing at D >= 8 is covered by known algebraicity results, except the Fermat-type members of R4 and the
   class (2,2,2,1) of R5 (the unrefereed manuscript quoted in R4 claims more).  The classification says which
   Weil classes would be needed, not that the Hodge conjecture holds.  [INFERENCE]
-- The classes are classes of pairs (G, Phi).  Which of them arise from actual CM fields was not determined;
-  realisability was checked only for the examples listed in R6.
-- n0 = 1 for every degree-16 class; the degree-16 case of the construction of Kida-Yanai 2022 was not compared.
+- The classes are classes of pairs (G, Phi).  Which of them arise from actual CM fields was not determined in
+  general; section 10 lists the classes known to arise (the examples of R6 and Remark 4.2 of the note).
+- n0 = 1 for every degree-16 class.  For C2 x D4 (16T9) the list has exactly one degenerate class (d = 2), and
+  a separate computation agrees (section 10); Kida-Yanai 2022 itself was seen only as abstract and first page.
 - Signs of t and r depend on which block contains the point 0; the invariants are |t| and the unordered pairs
   {r, b - r}.
 - The literature was read through text extracts of the sources; Kida 2019 (Ex. 6.4, p. 355) from page images;
@@ -585,8 +590,8 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
 - The list of reduced Stage C configurations with minimal Weil dimension > 6 is complete for the reduced pairs.
   Non-reduced pairs at g = 7 reduce to g <= 6, which the CM-sixfold enumeration covers.  [INFERENCE, the same
   argument as there]
-- verify_generalC3.py rests on a reduction argument stated in its header [INFERENCE]; it covers the 6 cases at
-  which verify_generalC.py was stopped.
+- verify_generalC3.py rests on a reduction argument stated in its header [INFERENCE]; it covers the 4 cases
+  of gid 6402 that verify_generalC.py had not finished (section 10).
 
 
 9. LITERATURE
@@ -610,7 +615,10 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
   (2022), 55-66 (abstract and first page).
 - N. Li, The Tate conjecture for powers of abelian fourfolds and the Hodge conjecture for powers of CM fourfolds,
   arXiv:2609.27916 (Thm 1.3).
+- The LMFDB Collaboration, The L-functions and modular forms database, https://www.lmfdb.org (section 10).
 - E. Markman, Cycles on abelian 2n-folds of Weil type from secant sheaves on abelian n-folds, arXiv:2502.03415.
+- E. Markman, Secant sheaves on abelian n-folds with real multiplication and Weil classes on abelian 2n-folds
+  with complex multiplication, arXiv:2509.23079v1 (Thm 1.1.2 = Cor. 10.2.3, Def. 7.3.4, Ex. 11.2.7, Lemma 11.2.8).
 - J. S. Milne, The Tate and standard conjectures for certain abelian varieties, arXiv:2112.12815 (Thm 1.8).
 - M. Miranda, H. Movasati, L. Rufino, R. Villaflor, Lengths of Hodge characters in Fermat varieties,
   arXiv:2609.27301.
@@ -629,3 +637,79 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
 - H. Yanai, On the index of degeneracy of a CM abelian variety, J. Theor. Nombres Bordeaux 27 (2015), 815-820
   (Thm 4.1; Sec. 5).
 - HC-cm-sixfolds: the CM-sixfold enumeration (g <= 6) on which this repository builds (enumeration/README.txt).
+
+
+10. CHECKS OF 2026-10-08 (EXTERNAL REFEREE REPORT)
+======================================================================================================================
+After an external referee report on the note, the following checks were made.  Folder checks_2026-10-08/; every
+script there was run from its own folder after copying (paths are relative to the script), and the stored outputs
+are those of that run.  Python 3.12 with numpy (and sympy for kida_yanai/); Sage/GAP and PARI/GP in the docker
+image of section 6 (SageMath 10.10, GAP 4.15.1, PARI/GP 2.17.1).
+
+classes/ -- the N_W(G)-class labels without GAP.  verify_classes.py builds W(B7) and W(B8) as all signed
+  permutations, computes N_W(G) of every stored group by testing every element of W(B_g), and groups the stored
+  G-orbits of CM types under it; it also checks |G|, G in N, that the stored representatives give every G-orbit of
+  CM types exactly once, norb, that d and reduced / primitive are constant on each class, and at g = 8 |N| against
+  GAP's NW_order.  Controls (controls_out.txt): N(<rho>) = N(W) = W; perturbed labels (split, merge, swap) flagged.
+    python verify_classes.py controls | run 7 all | run 8 all | run 7 sel | run 8 sel
+  (sums of per-group times: 13 min for run 7 all, 33 min for run 8 all, under 4 min for each sel run).
+  Result (summary_g{7,8}_{all,sel}.txt): all 6665 groups (29697 orbits, 13962 classes) and all 1943 pairs (8869
+  orbits, 5733 classes) agree with the stored labels; |N| = NW_order for all 1943 pairs.  Reduced orbits with
+  d >= 1 at g = 7: 769 orbits, 386 classes (d = 1: 356, d = 2: 25, d = 3: 5); the 196 failing orbits form the 83
+  classes of R5, row by row, and are the lines of list_C_compact.txt; the 452 primitive degenerate orbits at g = 8
+  form 257 classes (46 / 195 / 16), the lines of table_g8_compact.txt.
+
+p_times_iota/ -- a control by a different route.  If a CM field E contains an imaginary quadratic field K, then
+  E = K E+ and G = P x <iota>, P the Galois group of the (totally real) Galois closure of E+.  dump.py (Sage/GAP,
+  the only GAP use here) writes the transitive groups of degree 5, 6, 8 to transgroups_5_6_8.json.  pxc_control.py
+  (Python + numpy) forms P x <iota> on 16 points for the 50 groups P = 8Tk, enumerates all CM types, computes d,
+  primitivity and the classes under the normalizer in W(B8), and matches every stored degenerate class at g = 8
+  whose field has an imaginary quadratic subfield into this table by an explicit conjugating element of W(B8).
+  Result: 46 classes (78 orbits) with d = 1, in bijection with the stored 46 (same d, orbits, |G|, |N|); 52 with
+  d = 2, a bijective part of the stored 195; none with d >= 3; the other 143 + 16 stored classes have no imaginary
+  quadratic subfield.  P for the 46 classes with d = 1: all 8Tk except k = 2, 3, 4, 5, 9, 11, 21, 22, 31; for the 52
+  with d = 2 these 9 except 8T3 also occur.  pxc_post.py: Lambda_U = Z w_K for d = 1, allowing every imaginary
+  quadratic subfield.  ident.py (Sage/GAP): TransitiveIdentification of the image of G on the conjugation pairs for
+  the 257 classes at g = 8 and for the rows (6,1), (5,1,1) of R5 (one class per 6Tk in each (6,1) row with d = 1;
+  (5,1,1): all five 5Tk with an independent second field, and 5T2, 5T3, 5T5 with the twisted one).
+
+realizability/ -- totally real fields with a given Galois group.  fetch.py queried the LMFDB API (nf_fields,
+  r2 = 0, galois_label = nTk, sorted by |disc|; queries.txt has every request with its time, 2026-10-08/09 UTC) for
+  the 71 groups 5T1-5T5, 6T1-6T16, 8T1-8T50; every group has a totally real field in the LMFDB, and the one with the
+  least |disc| is in totally_real.json (coefficients, constant term first).  make_polys.py -> polys.gp; check.gp
+  (PARI/GP, galdata): irreducible, all roots real (polsturm), polgalois T-number = the LMFDB label, nfdisc = the
+  LMFDB |disc|.  check_results.txt: 71 of 71 OK.  With the description above (E = K F, F totally real with Galois
+  group P), this realizes the 46 + 52 classes at g = 8 with an imaginary quadratic subfield and the classes of the
+  rows (6,1) and (5,1,1) of R5 (Remark 4.2 of the note).  Completeness of the LMFDB tables was not used or checked.
+
+gap_variation/ -- the Stage C representative variation of section 7.  prep_seed.py runs "stageC.py prep" (copy
+  stageC.py, cmenum.py, weil_tiers.py next to it; sage -python prep_seed.py none|<seed>) and prints hashes of GAP's
+  random states; prep.g is the same computation in GAP alone; prep2.g runs it twice in one GAP session, resetting
+  both global random sources before each run; prep3.g prints fingerprints of W, Q and the class representatives;
+  meth.g prints the methods used.  Runs (runs_out.txt): no seed (2), seed 0 (2), seed 1 (1), seed 0 with
+  PYTHONHASHSEED=0 (2), the same under setarch -R (no address-space randomization) (2), pure GAP (2), pure GAP
+  under setarch -R (2), prep2.g (2), prep3.g (3).  Every run gave a different list.  summarize.py ->
+  summary_out.txt: all 13 stored lists have 6665 classes with, index by index, the same order and orbit lengths as
+  the stored stageC_classes.json, and differ from it in 16 to 66 entries (the lists themselves, 1.7 MB each, are not
+  kept; their md5 are).  The initial GAP random states are the same in all runs; W, Q and the random state after
+  building Q are the same; the representatives first differ after ConjugacyClassesSubgroups(Q), which also consumes
+  different amounts of random numbers; in one session the second run differs from the first.  The method is
+  LatticeSubgroups, "elementary abelian extension" (lib/grppclat.gi), for |Q| = 322560, Q not solvable.  So the
+  variation is inside that GAP computation and not caused by seeds, hashing or address-space randomization; its
+  exact source in GAP was not found.  It does not affect the results (section 7, and classes/ above).
+
+rows/c6.py -- G = C6 x C2, pairs (6,1): d by signature; for P = C6, half of the primitive CM types of signature
+  (4,2) have d = 2 (Remark 3.1 of the note).
+kida_yanai/cnd4_index.py -- defect and index of degeneracy n0 for Galois CM fields with group C_n x D_4 (Python +
+  sympy; python cnd4_index.py 2, resp. 3).  n = 2: one class with d = 2, n0 = 1 (the list has one degenerate class
+  for 16T9 = C2 x D8, d = 2); n = 3: 192 simple CM types with n0 = 2, i.e. 8 up to right translation, the number
+  that the zbMATH review of Kida-Yanai 2020 reports for C3 x D4.
+reruns/ -- the programs added after the re-run of section 7, rerun on a fresh clone of commit be8c17f:
+  used_blocks_check_g7.py, verify_blocks.py (g = 4, 5, 6, 7) and compare_blocks_g7.py give the 11 files of
+  blocks_check/ byte for byte (blocks_check_rerun_md5.txt); route2_g7.py and route2_match_g7.py give the stored
+  logs up to timings (and the start/finish lines of the stored wrapper) (log_route2_*_rerun.txt).
+verify_generalC.py -- rerun on 2026-10-08 (a fresh clone of be8c17f): 336 of the 340 cases done, all agree;
+  log_verify_generalC.txt is the log of that run so far (its first 334 lines are those of the original partial
+  log).  The run on the remaining 4 cases (gid 6402, |G| = 1440, rows (6,1)) had not finished when this
+  commit was made; they remain covered by verify_generalC3.py [INFERENCE] and, given their shape, by
+  Remark 3.1 of the note.

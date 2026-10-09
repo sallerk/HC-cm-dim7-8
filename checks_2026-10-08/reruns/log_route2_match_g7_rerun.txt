@@ -1,0 +1,20 @@
+g 7 |W| 645120
+route 2: classes of subgroups of W(B7) 55200, containing rho 6665, time 957.8s
+route 2 invariants: 6057 distinct values, largest bucket 6, time 1032.0s
+  500/6665 stored groups done, 521 IsConjugate tests, time 1035.5s
+  1000/6665 stored groups done, 1027 IsConjugate tests, time 1039.5s
+  1500/6665 stored groups done, 1556 IsConjugate tests, time 1042.7s
+  2000/6665 stored groups done, 2068 IsConjugate tests, time 1046.7s
+  2500/6665 stored groups done, 2596 IsConjugate tests, time 1050.8s
+  3000/6665 stored groups done, 3113 IsConjugate tests, time 1054.8s
+  3500/6665 stored groups done, 3614 IsConjugate tests, time 1058.8s
+  4000/6665 stored groups done, 4114 IsConjugate tests, time 1063.4s
+  4500/6665 stored groups done, 4626 IsConjugate tests, time 1068.4s
+  5000/6665 stored groups done, 5127 IsConjugate tests, time 1072.9s
+  5500/6665 stored groups done, 5631 IsConjugate tests, time 1078.6s
+  6000/6665 stored groups done, 6133 IsConjugate tests, time 1088.7s
+  6500/6665 stored groups done, 6633 IsConjugate tests, time 1115.9s
+stored groups (enum_g7.json): 6665; matched to distinct route-2 classes: 6665; IsConjugate tests: 6798
+problems: 0 []
+RESULT: the two class lists are the same (bijection by conjugacy in W(B7))
+total time 1132.6s

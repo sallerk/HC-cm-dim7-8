@@ -1,0 +1,248 @@
+LMFDB API queries (nf_fields). Times are UTC at request; server 'timestamp' field also recorded.
+Note: the API returns pages of up to 100 records; _limit is ignored; _sort=disc_abs is honored (checked with _sort=-disc_abs).
+
+2026-10-09T01:39:31Z  server_ts=2026-10-09T01:39:32.549018  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=5&r2=0&galois_label=5T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:33Z  server_ts=2026-10-09T01:39:34.756368  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=5&r2=0&galois_label=5T2&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:35Z  server_ts=2026-10-09T01:39:37.190237  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=5&r2=0&galois_label=5T3&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:38Z  server_ts=2026-10-09T01:39:39.555898  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=5&r2=0&galois_label=5T4&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:40Z  server_ts=2026-10-09T01:39:41.941156  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=5&r2=0&galois_label=5T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:43Z  ERROR attempt 0: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:39:53Z  ERROR attempt 1: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:40:13Z  ERROR attempt 2: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:40:43Z  ERROR attempt 3: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:41:23Z  ERROR attempt 4: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+
+--- resumed run (fetch now via curl; urllib requests got empty/non-JSON bodies) ---
+2026-10-09T01:42:52Z  server_ts=2026-10-09T01:42:53.604854  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:42:54Z  server_ts=2026-10-09T01:42:56.114198  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T2&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:42:57Z  server_ts=2026-10-09T01:42:58.762927  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T3&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:42:59Z  server_ts=2026-10-09T01:43:01.106507  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T4&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:43:02Z  server_ts=2026-10-09T01:43:03.439427  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:43:04Z  ERROR attempt 0: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:43:14Z  ERROR attempt 1: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:43:34Z  ERROR attempt 2: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:44:05Z  ERROR attempt 3: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:44:45Z  ERROR attempt 4: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+
+--- resumed run (fetch now via curl; urllib requests got empty/non-JSON bodies) ---
+2026-10-09T01:50:07Z  server_ts=2026-10-09T01:50:09.032307  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:50:33Z  server_ts=2026-10-09T01:50:34.494953  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T7&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:50:58Z  server_ts=2026-10-09T01:50:59.960519  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T8&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:51:24Z  server_ts=2026-10-09T01:51:25.454497  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T9&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:51:49Z  server_ts=2026-10-09T01:51:50.759262  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T10&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:52:14Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T11&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:53:15Z  server_ts=2026-10-09T01:53:16.821573  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T11&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:53:40Z  server_ts=2026-10-09T01:53:42.251570  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T12&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:54:06Z  server_ts=2026-10-09T01:54:07.987842  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T13&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:54:32Z  server_ts=2026-10-09T01:54:33.717623  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T14&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:54:57Z  server_ts=2026-10-09T01:54:59.040868  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T15&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:55:23Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T16&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:56:23Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T16&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:57:23Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T16&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:58:23Z  server_ts=2026-10-09T01:58:25.709786  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T16&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:58:49Z  server_ts=2026-10-09T01:58:51.034065  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T1&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:59:15Z  server_ts=2026-10-09T01:59:16.363847  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T2&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T01:59:40Z  server_ts=2026-10-09T01:59:41.641043  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T3&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:00:05Z  server_ts=2026-10-09T02:00:07.006948  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T4&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:00:31Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:01:31Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:02:31Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:03:31Z  server_ts=2026-10-09T02:03:32.930678  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:03:56Z  server_ts=2026-10-09T02:03:58.179587  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T6&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:04:22Z  server_ts=2026-10-09T02:04:23.522984  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T7&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:04:47Z  server_ts=2026-10-09T02:04:48.869388  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T8&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:05:12Z  server_ts=2026-10-09T02:05:14.435177  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T9&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:05:38Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T10&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:06:38Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T10&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:07:38Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T10&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:08:39Z  server_ts=2026-10-09T02:08:40.409146  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T10&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:09:04Z  server_ts=2026-10-09T02:09:05.639250  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T11&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:09:29Z  server_ts=2026-10-09T02:09:30.921128  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T12&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:09:54Z  server_ts=2026-10-09T02:09:56.194139  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T13&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:10:20Z  server_ts=2026-10-09T02:10:21.417573  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T14&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:10:45Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T15&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:11:45Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T15&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:12:45Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T15&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:13:46Z  server_ts=2026-10-09T02:13:47.383930  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T15&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:14:11Z  server_ts=2026-10-09T02:14:12.608960  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T16&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:14:36Z  server_ts=2026-10-09T02:14:37.853846  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T17&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:15:01Z  server_ts=2026-10-09T02:15:03.430682  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T18&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:15:27Z  server_ts=2026-10-09T02:15:28.696244  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T19&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:15:52Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T20&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:16:52Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T20&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:17:53Z  server_ts=2026-10-09T02:17:54.360379  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T20&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:18:18Z  server_ts=2026-10-09T02:18:19.780380  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T21&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:18:43Z  server_ts=2026-10-09T02:18:45.037209  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T22&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:19:09Z  server_ts=2026-10-09T02:19:10.349947  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T23&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:19:34Z  server_ts=2026-10-09T02:19:35.633544  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T24&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:19:59Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T25&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:20:59Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T25&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:22:00Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T25&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:23:00Z  server_ts=2026-10-09T02:23:01.830707  n_records=9
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T25&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:23:25Z  server_ts=2026-10-09T02:23:27.708894  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T26&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:23:51Z  server_ts=2026-10-09T02:23:53.048449  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T27&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:24:17Z  server_ts=2026-10-09T02:24:18.283145  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T28&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:24:42Z  server_ts=2026-10-09T02:24:43.900344  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T29&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:25:07Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T30&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:26:08Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T30&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:27:08Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T30&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:28:08Z  server_ts=2026-10-09T02:28:09.771766  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T30&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:28:33Z  server_ts=2026-10-09T02:28:35.072376  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T31&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:28:59Z  server_ts=2026-10-09T02:29:00.331210  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T32&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:29:24Z  server_ts=2026-10-09T02:29:25.670440  n_records=92
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T33&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:29:49Z  server_ts=2026-10-09T02:29:50.905324  n_records=26
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T34&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:30:14Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T35&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:31:15Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T35&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:32:15Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T35&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:33:15Z  server_ts=2026-10-09T02:33:17.659010  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T35&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:33:41Z  server_ts=2026-10-09T02:33:42.912229  n_records=70
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T36&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:34:06Z  server_ts=2026-10-09T02:34:08.432976  n_records=48
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T37&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:34:32Z  server_ts=2026-10-09T02:34:33.673105  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T38&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:34:57Z  server_ts=2026-10-09T02:34:58.908690  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T39&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:35:22Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T40&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:36:23Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T40&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:37:23Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T40&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:38:23Z  server_ts=2026-10-09T02:38:24.911977  n_records=89
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T40&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:38:48Z  server_ts=2026-10-09T02:38:50.129599  n_records=99
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T41&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:39:14Z  server_ts=2026-10-09T02:39:15.411829  n_records=50
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T42&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:39:39Z  server_ts=2026-10-09T02:39:40.629600  n_records=9
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T43&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:40:04Z  server_ts=2026-10-09T02:40:06.974630  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T44&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:40:30Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T45&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:41:31Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T45&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:42:31Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T45&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:43:31Z  server_ts=2026-10-09T02:43:33.036638  n_records=37
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T45&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:43:56Z  server_ts=2026-10-09T02:43:58.244027  n_records=22
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T46&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:44:22Z  server_ts=2026-10-09T02:44:25.269864  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T47&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:44:49Z  server_ts=2026-10-09T02:44:50.500021  n_records=7
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T48&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:45:14Z  server_ts=2026-10-09T02:45:15.686739  n_records=2
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T49&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:45:39Z  ERROR attempt 0: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T50&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:46:39Z  ERROR attempt 1: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T50&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:47:40Z  ERROR attempt 2: ValueError('HTTP 200, non-JSON body: \'<!doctype html><html lang="en-US" dir="ltr"><head><base href="https://www.google.com/recaptcha/challengepage/"><link rel="preconnect" href="//www.gsta\'')
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T50&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+2026-10-09T02:48:40Z  server_ts=2026-10-09T02:48:41.661966  n_records=100
+  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T50&_format=json&_fields=label,coeffs,disc_abs,disc_sign,r2,degree,galois_label&_sort=disc_abs
+
+--- notes appended after the run ---
+Exploratory queries made by hand with curl before the scripted run (not saved to raw/):
+2026-10-09T01:38:45Z  https://www.lmfdb.org/api/nf_fields/?degree=8&_format=json&_limit=1   (field names: label, coeffs, disc_abs, disc_sign, r2, galois_label, ...)
+2026-10-09T01:38:50Z  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,coeffs,disc_abs,galois_label,r2&_sort=disc_abs&_limit=1
+2026-10-09T01:39:03Z  https://www.lmfdb.org/api/nf_fields/?degree=8&r2=0&galois_label=8T5&_format=json&_fields=label,disc_abs&_sort=-disc_abs   (confirms _sort is honored)
+2026-10-09T01:42:20Z  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T1&... (manual curl -i to diagnose)
+2026-10-09T01:45:40Z  https://www.lmfdb.org/api/nf_fields/?degree=6&r2=0&galois_label=6T6&_format=json&_fields=label,disc_abs&_sort=disc_abs (manual curl -i to diagnose)
+Rate limiting: after ~5 requests the site returns HTTP 200 with a Google reCAPTCHA challenge page instead of JSON
+(logged above as ERROR lines). The script did NOT attempt the challenge; it waited 60 s and retried. ~5 requests per ~3 min got through.
+Every group nTk (5T1-5T5, 6T1-6T16, 8T1-8T50) returned >=1 totally real field, so no fallback (any-signature) queries were needed.
+Raw JSON responses (first page, up to 100 records, sorted by disc_abs): raw/<nTk>_r2_0.json
+Retrieval window: 2026-10-09 01:39Z - approx. 02:5xZ (UTC); server timestamps are recorded per query above.

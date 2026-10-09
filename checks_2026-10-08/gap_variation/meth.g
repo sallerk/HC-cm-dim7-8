@@ -1,0 +1,11 @@
+g := 7;; n := 2*g;;
+rho := PermList(List([0..n-1], i -> ((i+g) mod n) + 1));;
+W := Centralizer(SymmetricGroup(n), rho);;
+hom := NaturalHomomorphismByNormalSubgroup(W, Subgroup(W, [rho]));;
+Q := ImagesSource(hom);;
+m := ApplicableMethod(ConjugacyClassesSubgroups, [Q]);;
+Print("CCS method: ", NameFunction(m), " ", FilenameFunc(m), ":", StartlineFunc(m), "\n");
+m := ApplicableMethod(LatticeSubgroups, [Q]);;
+Print("Lattice method: ", NameFunction(m), " ", FilenameFunc(m), ":", StartlineFunc(m), "\n");
+Print("IsSolvable ", IsSolvableGroup(Q), " size ", Size(Q), "\n");
+QUIT;

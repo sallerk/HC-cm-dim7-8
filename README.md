@@ -30,14 +30,18 @@ with its status label.
   the statements on the Hodge conjecture here are special cases.
 
 **Status:** not refereed by a human expert. The checking programs are pure Python and separate from the Sage/GAP
-enumeration. Some steps rest on GAP alone; README.txt, section 8, lists them.
+enumeration. Some steps rest on GAP alone; README.txt, section 8, lists them. README.txt, section 10, records the
+checks made after an external referee report (October 2026), in `checks_2026-10-08/`.
 
 **Disclosure:** the computations and the documentation were produced with the assistance of an AI system (Claude,
 by Anthropic). The checking programs were written separately, but also with AI assistance.
 
 ## Licences
 
-- **Code** (`.py` files): MIT License, see [`LICENSE`](LICENSE).
+- **Code** (`.py`, `.g` and `.gp` files): MIT License, see [`LICENSE`](LICENSE).
 - **Everything else** (README files, data and computed outputs): Creative Commons Attribution 4.0 International
   (CC BY 4.0), see [`LICENSE-CC-BY-4.0`](LICENSE-CC-BY-4.0).
-- No third-party files are included. The largest file is `enum_g7.json` (17.8 MB).
+- Third-party data, for which no licence is claimed here: the defining polynomials in
+  `checks_2026-10-08/realizability/` were retrieved from the [LMFDB](https://www.lmfdb.org), and
+  `checks_2026-10-08/p_times_iota/transgroups_5_6_8.json` lists generators written out by GAP from its library of
+  transitive groups. No other third-party files are included. The largest file is `enum_g7.json` (17.8 MB).

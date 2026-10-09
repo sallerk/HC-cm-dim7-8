@@ -1,0 +1,113 @@
+W(B_7) built: 645120 elements, 0.2 s; 6665 groups to do (0 already in log)
+  100 99         |G|=12       |N|=768      t=0.10s elapsed 17s 
+  200 199        |G|=16       |N|=1024     t=0.20s elapsed 31s 
+  300 299        |G|=16       |N|=512      t=0.15s elapsed 42s 
+  400 399        |G|=16       |N|=256      t=0.05s elapsed 53s 
+  500 499        |G|=24       |N|=768      t=0.16s elapsed 62s 
+  600 599        |G|=32       |N|=18432    t=0.34s elapsed 71s 
+  700 699        |G|=32       |N|=1024     t=0.04s elapsed 85s 
+  800 799        |G|=32       |N|=1024     t=0.06s elapsed 96s 
+  900 899        |G|=32       |N|=512      t=0.05s elapsed 106s 
+ 1000 999        |G|=32       |N|=512      t=0.15s elapsed 119s 
+ 1100 1099       |G|=32       |N|=512      t=0.10s elapsed 131s 
+ 1200 1199       |G|=32       |N|=256      t=0.12s elapsed 140s 
+ 1300 1299       |G|=32       |N|=256      t=0.06s elapsed 149s 
+ 1400 1399       |G|=32       |N|=256      t=0.05s elapsed 161s 
+ 1500 1499       |G|=48       |N|=2304     t=0.18s elapsed 170s 
+ 1600 1599       |G|=48       |N|=384      t=0.15s elapsed 179s 
+ 1700 1699       |G|=48       |N|=384      t=0.10s elapsed 188s 
+ 1800 1799       |G|=64       |N|=6144     t=0.10s elapsed 199s 
+ 1900 1899       |G|=64       |N|=1536     t=0.26s elapsed 216s 
+ 2000 1999       |G|=64       |N|=1024     t=0.04s elapsed 230s 
+ 2100 2099       |G|=64       |N|=1024     t=0.12s elapsed 242s 
+ 2200 2199       |G|=64       |N|=768      t=0.18s elapsed 253s 
+ 2300 2299       |G|=64       |N|=512      t=0.22s elapsed 269s 
+ 2400 2399       |G|=64       |N|=512      t=0.07s elapsed 281s 
+ 2500 2499       |G|=64       |N|=512      t=0.06s elapsed 288s 
+ 2600 2599       |G|=64       |N|=512      t=0.09s elapsed 299s 
+ 2700 2699       |G|=64       |N|=512      t=0.07s elapsed 310s 
+ 2800 2799       |G|=64       |N|=256      t=0.07s elapsed 323s 
+ 2900 2899       |G|=64       |N|=256      t=0.05s elapsed 334s 
+ 3000 2999       |G|=96       |N|=4608     t=0.06s elapsed 344s 
+ 3100 3099       |G|=96       |N|=768      t=0.08s elapsed 355s 
+ 3200 3199       |G|=96       |N|=768      t=0.07s elapsed 365s 
+ 3300 3299       |G|=96       |N|=384      t=0.08s elapsed 375s 
+ 3400 3399       |G|=96       |N|=192      t=0.09s elapsed 384s 
+ 3500 3499       |G|=128      |N|=2048     t=0.06s elapsed 407s 
+ 3600 3599       |G|=128      |N|=1536     t=0.62s elapsed 426s 
+ 3700 3699       |G|=128      |N|=1024     t=0.10s elapsed 437s 
+ 3800 3799       |G|=128      |N|=1024     t=0.05s elapsed 449s 
+ 3900 3899       |G|=128      |N|=1024     t=0.05s elapsed 463s 
+ 4000 3999       |G|=128      |N|=1024     t=0.12s elapsed 475s 
+ 4100 4099       |G|=128      |N|=512      t=0.15s elapsed 491s 
+ 4200 4199       |G|=128      |N|=512      t=0.08s elapsed 505s 
+ 4300 4299       |G|=128      |N|=512      t=0.24s elapsed 515s 
+ 4400 4399       |G|=144      |N|=288      t=0.09s elapsed 524s 
+ 4500 4499       |G|=192      |N|=1536     t=0.06s elapsed 532s 
+ 4600 4599       |G|=192      |N|=1536     t=0.08s elapsed 540s 
+ 4700 4699       |G|=192      |N|=768      t=0.10s elapsed 549s 
+ 4800 4799       |G|=192      |N|=768      t=0.06s elapsed 557s 
+ 4900 4899       |G|=256      |N|=6144     t=0.05s elapsed 571s 
+ 5000 4999       |G|=256      |N|=2048     t=0.05s elapsed 585s 
+ 5100 5099       |G|=256      |N|=1024     t=0.08s elapsed 601s 
+ 5200 5199       |G|=256      |N|=1024     t=0.12s elapsed 615s 
+ 5300 5299       |G|=256      |N|=1024     t=0.27s elapsed 629s 
+ 5400 5399       |G|=288      |N|=1152     t=0.06s elapsed 642s 
+ 5500 5499       |G|=384      |N|=3072     t=0.10s elapsed 650s 
+ 5600 5599       |G|=384      |N|=1536     t=0.10s elapsed 657s 
+ 5700 5699       |G|=384      |N|=1536     t=0.07s elapsed 664s 
+ 5800 5799       |G|=384      |N|=768      t=0.05s elapsed 671s 
+ 5900 5899       |G|=512      |N|=2048     t=0.09s elapsed 685s 
+ 6000 5999       |G|=512      |N|=2048     t=0.06s elapsed 702s 
+ 6100 6099       |G|=768      |N|=6144     t=0.07s elapsed 710s 
+ 6200 6199       |G|=768      |N|=3072     t=0.08s elapsed 717s 
+ 6300 6299       |G|=768      |N|=768      t=0.04s elapsed 723s 
+ 6400 6399       |G|=1280     |N|=2560     t=0.06s elapsed 737s 
+ 6500 6499       |G|=1536     |N|=3072     t=0.06s elapsed 744s 
+ 6600 6599       |G|=3840     |N|=15360    t=0.06s elapsed 752s 
+done 6665 groups in 762.4 s
+=== summary g = 7, scope all, log log_g7_all.jsonl
+groups in scope: 6665; analysed: 6665; missing: 0
+  order_ok         failed in 0 of 6665 groups
+  G_in_N           failed in 0 of 6665 groups
+  div_ok           failed in 0 of 6665 groups
+  N_closed_sample  failed in 0 of 6665 groups
+  cm_ok            failed in 0 of 6665 groups
+  orbits_complete  failed in 0 of 6665 groups
+  norb_ok          failed in 0 of 6665 groups
+  partition_ok     failed in 0 of 6665 groups
+  d_flag_const     failed in 0 of 6665 groups
+  NW_ok            failed in 0 of 0 groups
+all stored orbits of the analysed groups: 29697 orbits, 13962 classes (brute force), 13962 distinct (group, Nclass)
+time: sum of per-group times 761.7 s; slowest group 3429 (|G| = 128, |N| = 645120) 3.26 s
+-- reduced orbits with d >= 1:
+   total: 769 orbits, 386 classes (brute force), 386 distinct (group, Nclass)
+   d = 1: 356 classes / 669 orbits  (Nclass: 356)
+   d = 2: 25 classes / 76 orbits  (Nclass: 25)
+   d = 3: 5 classes / 24 orbits  (Nclass: 5)
+-- failing orbits (general field, not mult Dmin <= 6): 196 orbits; selection identical to compact_C.py's: True
+   classes (brute force): 83; distinct (gid, Nclass): 83
+   6,1        d=1 Dmin=8      16 classes ( 32 orbits)
+   6,1        d=1 Dmin=10     16 classes ( 32 orbits)
+   6,1        d=2 Dmin=8       6 classes ( 12 orbits)
+   5,1,1      d=1 Dmin=8       8 classes ( 16 orbits)
+   4,3        d=1 Dmin=10     18 classes ( 36 orbits)
+   4,3        d=3 Dmin=None    2 classes (  4 orbits)
+   4,2,1      d=2 Dmin=8       9 classes ( 24 orbits)
+   4,2,1      d=3 Dmin=16      2 classes ( 12 orbits)
+   4,1,1,1    d=2 Dmin=8       4 classes ( 16 orbits)
+   4,1,1,1    d=3 Dmin=8       1 classes (  8 orbits)
+   2,2,2,1    d=2 Dmin=8       1 classes (  4 orbits)
+-- list_C_compact.txt: 83 class lines; set of (gid, class) equal to the brute-force classes of the failing orbits: True; all lines consistent: True
+   file row 2,2,2,1    d=2 Dmin=8      1 lines
+   file row 4,1,1,1    d=2 Dmin=8      4 lines
+   file row 4,1,1,1    d=3 Dmin=8      1 lines
+   file row 4,2,1      d=2 Dmin=8      9 lines
+   file row 4,2,1      d=3 Dmin=16     2 lines
+   file row 4,3        d=1 Dmin=10    18 lines
+   file row 4,3        d=3 Dmin=24*    2 lines
+   file row 5,1,1      d=1 Dmin=8      8 lines
+   file row 6,1        d=1 Dmin=8     16 lines
+   file row 6,1        d=1 Dmin=10    16 lines
+   file row 6,1        d=2 Dmin=8      6 lines
+written C:\Users\Tyrant\Desktop\hodge\publish\repos\HC-cm-dim7-8\checks_2026-10-08\classes\summary_g7_all.txt

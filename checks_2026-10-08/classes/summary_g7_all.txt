@@ -1,0 +1,44 @@
+=== summary g = 7, scope all, log log_g7_all.jsonl
+groups in scope: 6665; analysed: 6665; missing: 0
+  order_ok         failed in 0 of 6665 groups
+  G_in_N           failed in 0 of 6665 groups
+  div_ok           failed in 0 of 6665 groups
+  N_closed_sample  failed in 0 of 6665 groups
+  cm_ok            failed in 0 of 6665 groups
+  orbits_complete  failed in 0 of 6665 groups
+  norb_ok          failed in 0 of 6665 groups
+  partition_ok     failed in 0 of 6665 groups
+  d_flag_const     failed in 0 of 6665 groups
+  NW_ok            failed in 0 of 0 groups
+all stored orbits of the analysed groups: 29697 orbits, 13962 classes (brute force), 13962 distinct (group, Nclass)
+time: sum of per-group times 761.7 s; slowest group 3429 (|G| = 128, |N| = 645120) 3.26 s
+-- reduced orbits with d >= 1:
+   total: 769 orbits, 386 classes (brute force), 386 distinct (group, Nclass)
+   d = 1: 356 classes / 669 orbits  (Nclass: 356)
+   d = 2: 25 classes / 76 orbits  (Nclass: 25)
+   d = 3: 5 classes / 24 orbits  (Nclass: 5)
+-- failing orbits (general field, not mult Dmin <= 6): 196 orbits; selection identical to compact_C.py's: True
+   classes (brute force): 83; distinct (gid, Nclass): 83
+   6,1        d=1 Dmin=8      16 classes ( 32 orbits)
+   6,1        d=1 Dmin=10     16 classes ( 32 orbits)
+   6,1        d=2 Dmin=8       6 classes ( 12 orbits)
+   5,1,1      d=1 Dmin=8       8 classes ( 16 orbits)
+   4,3        d=1 Dmin=10     18 classes ( 36 orbits)
+   4,3        d=3 Dmin=None    2 classes (  4 orbits)
+   4,2,1      d=2 Dmin=8       9 classes ( 24 orbits)
+   4,2,1      d=3 Dmin=16      2 classes ( 12 orbits)
+   4,1,1,1    d=2 Dmin=8       4 classes ( 16 orbits)
+   4,1,1,1    d=3 Dmin=8       1 classes (  8 orbits)
+   2,2,2,1    d=2 Dmin=8       1 classes (  4 orbits)
+-- list_C_compact.txt: 83 class lines; set of (gid, class) equal to the brute-force classes of the failing orbits: True; all lines consistent: True
+   file row 2,2,2,1    d=2 Dmin=8      1 lines
+   file row 4,1,1,1    d=2 Dmin=8      4 lines
+   file row 4,1,1,1    d=3 Dmin=8      1 lines
+   file row 4,2,1      d=2 Dmin=8      9 lines
+   file row 4,2,1      d=3 Dmin=16     2 lines
+   file row 4,3        d=1 Dmin=10    18 lines
+   file row 4,3        d=3 Dmin=24*    2 lines
+   file row 5,1,1      d=1 Dmin=8      8 lines
+   file row 6,1        d=1 Dmin=8     16 lines
+   file row 6,1        d=1 Dmin=10    16 lines
+   file row 6,1        d=2 Dmin=8      6 lines

@@ -1,0 +1,50 @@
+W(B_7) built: 645120 elements, 0.2 s; 312 groups to do (0 already in log)
+  100 1665       |G|=48       |N|=384      t=0.09s elapsed 10s 
+  200 4361       |G|=144      |N|=1152     t=0.11s elapsed 20s 
+  300 6300       |G|=768      |N|=768      t=0.06s elapsed 28s 
+done 312 groups in 29.2 s
+=== summary g = 7, scope sel, log log_g7_sel.jsonl
+groups in scope: 312; analysed: 312; missing: 0
+  order_ok         failed in 0 of 312 groups
+  G_in_N           failed in 0 of 312 groups
+  div_ok           failed in 0 of 312 groups
+  N_closed_sample  failed in 0 of 312 groups
+  cm_ok            failed in 0 of 312 groups
+  orbits_complete  failed in 0 of 312 groups
+  norb_ok          failed in 0 of 312 groups
+  partition_ok     failed in 0 of 312 groups
+  d_flag_const     failed in 0 of 312 groups
+  NW_ok            failed in 0 of 0 groups
+all stored orbits of the analysed groups: 2086 orbits, 1167 classes (brute force), 1167 distinct (group, Nclass)
+time: sum of per-group times 29.1 s; slowest group 111 (|G| = 12, |N| = 144) 0.54 s
+-- reduced orbits with d >= 1:
+   total: 769 orbits, 386 classes (brute force), 386 distinct (group, Nclass)
+   d = 1: 356 classes / 669 orbits  (Nclass: 356)
+   d = 2: 25 classes / 76 orbits  (Nclass: 25)
+   d = 3: 5 classes / 24 orbits  (Nclass: 5)
+-- failing orbits (general field, not mult Dmin <= 6): 196 orbits; selection identical to compact_C.py's: True
+   classes (brute force): 83; distinct (gid, Nclass): 83
+   6,1        d=1 Dmin=8      16 classes ( 32 orbits)
+   6,1        d=1 Dmin=10     16 classes ( 32 orbits)
+   6,1        d=2 Dmin=8       6 classes ( 12 orbits)
+   5,1,1      d=1 Dmin=8       8 classes ( 16 orbits)
+   4,3        d=1 Dmin=10     18 classes ( 36 orbits)
+   4,3        d=3 Dmin=None    2 classes (  4 orbits)
+   4,2,1      d=2 Dmin=8       9 classes ( 24 orbits)
+   4,2,1      d=3 Dmin=16      2 classes ( 12 orbits)
+   4,1,1,1    d=2 Dmin=8       4 classes ( 16 orbits)
+   4,1,1,1    d=3 Dmin=8       1 classes (  8 orbits)
+   2,2,2,1    d=2 Dmin=8       1 classes (  4 orbits)
+-- list_C_compact.txt: 83 class lines; set of (gid, class) equal to the brute-force classes of the failing orbits: True; all lines consistent: True
+   file row 2,2,2,1    d=2 Dmin=8      1 lines
+   file row 4,1,1,1    d=2 Dmin=8      4 lines
+   file row 4,1,1,1    d=3 Dmin=8      1 lines
+   file row 4,2,1      d=2 Dmin=8      9 lines
+   file row 4,2,1      d=3 Dmin=16     2 lines
+   file row 4,3        d=1 Dmin=10    18 lines
+   file row 4,3        d=3 Dmin=24*    2 lines
+   file row 5,1,1      d=1 Dmin=8      8 lines
+   file row 6,1        d=1 Dmin=8     16 lines
+   file row 6,1        d=1 Dmin=10    16 lines
+   file row 6,1        d=2 Dmin=8      6 lines
+written C:\Users\Tyrant\Desktop\hodge\publish\repos\HC-cm-dim7-8\checks_2026-10-08\classes\summary_g7_sel.txt

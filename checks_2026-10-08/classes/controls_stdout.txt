@@ -1,0 +1,22 @@
+g = 7: W(B_7) built, 645120 elements (2^g g! = 645120), 0.2 s
+  positive control N_W(<rho>): |<rho>| = 2, |N| = 645120, = |W|: True (0.4 s)
+  positive control N_W(W): |<gens>| = 645120 (= |W|: True), |N| = 645120 (= |W|: True) (3.6 s)
+  control <g-cycle on both halves>: |G| = 7, |N| = 84 (0.1 s)
+g = 8: W(B_8) built, 10321920 elements (2^g g! = 10321920), 3.6 s
+  positive control N_W(<rho>): |<rho>| = 2, |N| = 10321920, = |W|: True (8.5 s)
+  positive control N_W(W): |<gens>| = 10321920 (= |W|: True), |N| = 10321920 (= |W|: True) (97.4 s)
+  control <g-cycle on both halves>: |G| = 8, |N| = 64 (0.9 s)
+negative controls g = 7 on group 66: stored partition agrees: True (16 orbits, 3 classes)
+  perturbed Nclass (split): comparison says agree = False -> FLAGGED
+  perturbed Nclass (merge): comparison says agree = False -> FLAGGED
+  perturbed Nclass (swap (same class sizes multiset)): comparison says agree = False -> FLAGGED
+negative controls g = 8 on group 16T2/0: stored partition agrees: True (24 orbits, 8 classes)
+  perturbed Nclass (split): comparison says agree = False -> FLAGGED
+  perturbed Nclass (merge): comparison says agree = False -> FLAGGED
+  perturbed Nclass (swap (same class sizes multiset)): comparison says agree = False -> FLAGGED
+timing g = 7 largest |G| in scope: 6556 |G| = 2880, |N| = 2880, orbits 4: closure 0.00 s, normalizer 0.10 s, total 0.10 s; bad: []
+timing g = 7 largest |G| overall: 6664 |G| = 645120, |N| = 645120, orbits 1: closure 0.49 s, normalizer 2.43 s, total 3.14 s; bad: []
+timing g = 7 most orbits overall: 0 |G| = 2, |N| = 645120, orbits 64: closure 0.00 s, normalizer 0.46 s, total 3.34 s; bad: []
+timing g = 8 largest |G| in scope: 16T1873/0 |G| = 80640, |N| = 80640, orbits 5: closure 0.04 s, normalizer 1.94 s, total 2.03 s; bad: []
+timing g = 8 largest |G| overall: 16T1948/0 |G| = 10321920, |N| = 10321920, orbits 1: closure 11.18 s, normalizer 114.66 s, total 129.34 s; bad: []
+timing g = 8 most orbits overall: 16T3/0 |G| = 16, |N| = 21504, orbits 30: closure 0.00 s, normalizer 1.43 s, total 1.47 s; bad: []

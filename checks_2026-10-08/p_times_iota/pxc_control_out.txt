@@ -1,0 +1,75 @@
+1 {'G': 16, 'NW': 128, 'nsys': 9, 'prim': {0: {'classes': 4, 'orbits': 8, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 4, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.4}
+2 {'G': 16, 'NW': 512, 'nsys': 25, 'prim': {0: {'classes': 2, 'orbits': 8, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 4, 'sigs': [(4, 4), (6, 2)]}}, 'time': 14.8}
+3 {'G': 16, 'NW': 21504, 'nsys': 65, 'prim': {0: {'classes': 1, 'orbits': 8, 'sigs': [(5, 3), (7, 1)]}}, 'time': 13.7}
+4 {'G': 16, 'NW': 512, 'nsys': 33, 'prim': {0: {'classes': 2, 'orbits': 8, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.1}
+5 {'G': 16, 'NW': 1536, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 8, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 6, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.3}
+6 {'G': 32, 'NW': 128, 'nsys': 9, 'prim': {0: {'classes': 4, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 4, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 11.3}
+7 {'G': 32, 'NW': 256, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.7}
+8 {'G': 32, 'NW': 128, 'nsys': 9, 'prim': {0: {'classes': 4, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.3}
+9 {'G': 32, 'NW': 512, 'nsys': 25, 'prim': {0: {'classes': 2, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 4, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.5}
+10 {'G': 32, 'NW': 256, 'nsys': 17, 'prim': {0: {'classes': 3, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.1}
+11 {'G': 32, 'NW': 512, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 6, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 2, 'orbits': 6, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.6}
+12 {'G': 48, 'NW': 96, 'nsys': 5, 'prim': {0: {'classes': 5, 'orbits': 5, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 12.3}
+13 {'G': 48, 'NW': 192, 'nsys': 8, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.8}
+14 {'G': 48, 'NW': 192, 'nsys': 8, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 11.6}
+15 {'G': 64, 'NW': 256, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 11.5}
+16 {'G': 64, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.2}
+17 {'G': 64, 'NW': 256, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.0}
+18 {'G': 64, 'NW': 768, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 11.7}
+19 {'G': 64, 'NW': 256, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 11.5}
+20 {'G': 64, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 11.5}
+21 {'G': 64, 'NW': 1024, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 2, 'orbits': 6, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.5}
+22 {'G': 64, 'NW': 3072, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 6, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.2}
+23 {'G': 96, 'NW': 96, 'nsys': 5, 'prim': {0: {'classes': 5, 'orbits': 5, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 12.7}
+24 {'G': 96, 'NW': 192, 'nsys': 8, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 13.0}
+25 {'G': 112, 'NW': 336, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 12.9}
+26 {'G': 128, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.1}
+27 {'G': 128, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.3}
+28 {'G': 128, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 12.7}
+29 {'G': 128, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.4}
+30 {'G': 128, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.4}
+31 {'G': 128, 'NW': 3072, 'nsys': 17, 'prim': {0: {'classes': 2, 'orbits': 5, 'sigs': [(5, 3), (7, 1)]}, 2: {'classes': 1, 'orbits': 6, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.8}
+32 {'G': 192, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 4, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 13.0}
+33 {'G': 192, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 13.4}
+34 {'G': 192, 'NW': 2304, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 3, 'sigs': [(4, 4)]}}, 'time': 13.5}
+35 {'G': 256, 'NW': 512, 'nsys': 9, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}}, 'time': 13.2}
+36 {'G': 336, 'NW': 336, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 12.7}
+37 {'G': 336, 'NW': 672, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 2, 'orbits': 3, 'sigs': [(4, 4)]}}, 'time': 12.1}
+38 {'G': 384, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 4, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 14.0}
+39 {'G': 384, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 4, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 13.2}
+40 {'G': 384, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 4, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 12.4}
+41 {'G': 384, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 11.3}
+42 {'G': 576, 'NW': 2304, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.1}
+43 {'G': 672, 'NW': 672, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 11.7}
+44 {'G': 768, 'NW': 768, 'nsys': 5, 'prim': {0: {'classes': 4, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.9}
+45 {'G': 1152, 'NW': 4608, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.4}
+46 {'G': 1152, 'NW': 4608, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.4}
+47 {'G': 2304, 'NW': 4608, 'nsys': 5, 'prim': {0: {'classes': 3, 'orbits': 4, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 2, 'sigs': [(4, 4), (6, 2)]}, 2: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 11.3}
+48 {'G': 2688, 'NW': 2688, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 2, 'orbits': 2, 'sigs': [(4, 4)]}}, 'time': 12.7}
+49 {'G': 40320, 'NW': 80640, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 15.0}
+50 {'G': 80640, 'NW': 80640, 'nsys': 2, 'prim': {0: {'classes': 3, 'orbits': 3, 'sigs': [(5, 3), (6, 2), (7, 1)]}, 1: {'classes': 1, 'orbits': 1, 'sigs': [(4, 4)]}}, 'time': 17.0}
+loop time 634.3
+TOTAL primitive classes by d: {0: 151, 1: 46, 2: 52}
+TOTAL primitive orbits  by d: {0: 238, 1: 78, 2: 85}
+signatures by d: {0: {((5, 3), (7, 1)): 36, ((5, 3),): 77, ((7, 1),): 14, ((6, 2),): 24}, 1: {((4, 4), (6, 2)): 27, ((4, 4),): 19}, 2: {((6, 2),): 15, ((4, 4),): 27, ((4, 4), (6, 2)): 10}}
+Lambda_U = Z wK checks ok (orbits, d=1 prim): 49 bad: [(1, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (1, 9, [1, -1, 1, -1, 1, -1, 1, -1]), (6, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (6, 9, [1, -1, 1, -1, 1, -1, 1, -1]), (7, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (8, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (10, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (13, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (14, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (15, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (16, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (17, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (18, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (19, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (20, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (24, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (26, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (27, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (28, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (29, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (30, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (33, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (34, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (35, 3, [1, -1, 1, -1, 1, -1, 1, -1]), (41, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (42, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (45, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (46, 9, [1, 1, 1, -1, -1, -1, -1, 1]), (47, 9, [1, 1, 1, -1, -1, -1, -1, 1])]
+negative control: {'k': 1, 't': 7, 'Phi': [8, 9, 10, 3, 4, 5, 6, 7], 'wK_dot_mu_values': [-2, 2]}
+d=1: mine 46 classes, stored 46; mine<=stored: True; equal: True; mine-stored: {}
+    stored-mine: {}
+d=2: mine 52 classes, stored 195; mine<=stored: True; equal: False; mine-stored: {}
+    stored-mine: {(16, 2, 256): 1, (16, 2, 512): 2, (16, 4, 512): 4, (32, 1, 128): 4, (32, 2, 256): 15, (32, 2, 512): 5, (32, 4, 512): 4, (48, 1, 192): 3, (48, 2, 192): 1, (64, 1, 256): 6, (64, 2, 256): 7, (64, 2, 512): 9, (64, 2, 1024): 2, (64, 4, 512): 1, (64, 4, 1024): 2, (96, 1, 192): 9, (96, 2, 192): 1, (128, 1, 256): 4, (128, 1, 512): 10, (128, 2, 512): 5, (128, 2, 1024): 7, (128, 4, 1024): 1, (192, 1, 192): 2, (192, 1, 768): 2, (192, 3, 2304): 1, (256, 1, 512): 6, (256, 2, 1024): 6, (384, 1, 768): 8, (384, 3, 2304): 1, (512, 2, 1024): 1, (576, 1, 2304): 1, (768, 1, 768): 2, (1152, 1, 2304): 2, (1152, 1, 4608): 2, (2304, 1, 4608): 5, (4608, 1, 4608): 1}
+d=4: mine 0 classes, stored 16; mine<=stored: True; equal: False; mine-stored: {}
+    stored-mine: {(16, 4, 256): 1, (16, 8, 256): 1, (32, 2, 128): 1, (32, 2, 256): 2, (32, 4, 256): 1, (48, 4, 192): 1, (64, 2, 256): 4, (64, 2, 768): 1, (128, 2, 256): 1, (192, 2, 768): 2, (384, 2, 768): 1}
+stored classes with no rho-swapped 2-block system (not P x C2), by d: {2: 143, 4: 16}
+number of distinct classes obtained from the different IQ systems of one stored class: {1: 98}
+my classes hit by >1 stored class: []
+d=1: my primitive classes 46, matched by stored 46, my classes not in stored: []
+    stored per k: {1: 1, 6: 1, 7: 1, 8: 1, 10: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 23: 1, 24: 1, 25: 2, 26: 1, 27: 1, 28: 1, 29: 1, 30: 1, 32: 1, 33: 1, 34: 1, 35: 1, 36: 2, 37: 2, 38: 1, 39: 1, 40: 1, 41: 1, 42: 1, 43: 2, 44: 1, 45: 1, 46: 1, 47: 1, 48: 2, 49: 1, 50: 1}
+d=2: my primitive classes 52, matched by stored 52, my classes not in stored: []
+    stored per k: {1: 2, 2: 1, 4: 1, 5: 1, 6: 2, 7: 2, 8: 2, 9: 1, 11: 2, 13: 1, 14: 1, 15: 2, 16: 2, 17: 2, 19: 2, 20: 2, 21: 2, 22: 1, 24: 1, 26: 2, 27: 2, 28: 2, 29: 2, 30: 2, 31: 1, 33: 2, 34: 1, 35: 2, 41: 2, 42: 1, 45: 1, 46: 1, 47: 1}
+d=3: my primitive classes 0, matched by stored 0, my classes not in stored: []
+    stored per k: {}
+d=4: my primitive classes 0, matched by stored 0, my classes not in stored: []
+    stored per k: {}
+mismatches: []
+total time 671.2

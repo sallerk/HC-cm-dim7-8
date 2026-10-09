@@ -1,0 +1,9 @@
+n=2 |G|=16 rho=(0, 2, 0) |Aut G|=64
+   simple CM types by (defect, n0): {(0, None): 160}
+   classes up to Aut(G,rho) x right translation: {(0, None): 2}
+n=2 |G|=16 rho=(1, 0, 0) |Aut G|=64
+   simple CM types by (defect, n0): {(0, None): 128, (2, 1): 32}
+   classes up to Aut(G,rho) x right translation: {(0, None): 2, (2, 1): 1}
+n=2 |G|=16 rho=(1, 2, 0) |Aut G|=64
+   simple CM types by (defect, n0): {(0, None): 128, (2, 1): 32}
+   classes up to Aut(G,rho) x right translation: {(0, None): 2, (2, 1): 1}

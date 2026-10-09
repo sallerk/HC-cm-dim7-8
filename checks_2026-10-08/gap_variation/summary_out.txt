@@ -1,0 +1,14 @@
+stored: 6665 classes, md5 ded303970616c81c34fc5425c425c13a
+a1     stageC_classes.json classes 6665  md5 c764a1475465817e6fe86d6b9bf02c78  entries differing from stored: 27  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+a2     stageC_classes.json classes 6665  md5 15d776e2b0267ad6c9a21b9b82261e7e  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+b1     stageC_classes.json classes 6665  md5 eb2cb7bbf0cbd13b9d214d278cb9bae8  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+b2     stageC_classes.json classes 6665  md5 a24e8bca9311cf663173e0ca35816616  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+c1     stageC_classes.json classes 6665  md5 f010f1fa5b8904d0610e821ca64d67bb  entries differing from stored: 25  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+d1     stageC_classes.json classes 6665  md5 b5c7e6848c592bfb0ac46a70048a8e38  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+d2     stageC_classes.json classes 6665  md5 eb5251ad6414ede3e98fad48be6b9495  entries differing from stored: 16  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+e1     stageC_classes.json classes 6665  md5 e4a43199c70ad9baff088e3a8ba1d53a  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+e2     stageC_classes.json classes 6665  md5 8bcc4bc1bfac75eb6a1701597523f880  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+f1     gap_out.txt         classes 6665  md5 31bc098f603a798f733f32195384b68a  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+f2     gap_out.txt         classes 6665  md5 3cc3e1485d99d3e59cb3ebf0222a6dcc  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+g1     gap_out.txt         classes 6665  md5 4561c9d4444cd4e76e1ed0d54506a085  entries differing from stored: 66  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0
+g2     gap_out.txt         classes 6665  md5 a1b2cdc162dcdb6986574622302cb826  entries differing from stored: 56  same (order, orbits) multiset: True  index-wise (order, orbits) mismatches: 0

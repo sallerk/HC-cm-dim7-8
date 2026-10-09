@@ -1,0 +1,21 @@
+=== summary g = 8, scope sel, log log_g8_sel.jsonl
+groups in scope: 173; analysed: 173; missing: 0
+  order_ok         failed in 0 of 173 groups
+  G_in_N           failed in 0 of 173 groups
+  div_ok           failed in 0 of 173 groups
+  N_closed_sample  failed in 0 of 173 groups
+  cm_ok            failed in 0 of 173 groups
+  orbits_complete  failed in 0 of 173 groups
+  norb_ok          failed in 0 of 173 groups
+  partition_ok     failed in 0 of 173 groups
+  d_flag_const     failed in 0 of 173 groups
+  NW_ok            failed in 0 of 173 groups
+all stored orbits of the analysed groups: 2095 orbits, 1294 classes (brute force), 1294 distinct (group, Nclass)
+time: sum of per-group times 215.3 s; slowest group 16T509/0 (|G| = 256, |N| = 512) 2.66 s
+-- primitive orbits with d >= 1:
+   total: 452 orbits, 257 classes (brute force), 257 distinct (group, Nclass)
+   d = 1: 46 classes / 78 orbits  (Nclass: 46)
+   d = 2: 195 classes / 330 orbits  (Nclass: 195)
+   d = 4: 16 classes / 44 orbits  (Nclass: 16)
+-- |N| vs NW_order: 173 groups compared, 173 agree
+-- table_g8_compact.txt: 257 class lines; set of (group, class) equal to the brute-force classes of the primitive d >= 1 orbits: True; orb column and d consistent on all lines: True

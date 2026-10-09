@@ -1,0 +1,72 @@
+5T1	5.5.14641.1	irred=1	real_roots=5/5	polgalois=5T1 C(5) = 5 order=5	nfdisc=14641 match_disc=1	OK
+5T2	5.5.160801.1	irred=1	real_roots=5/5	polgalois=5T2 D(5) = 5:2 order=10	nfdisc=160801 match_disc=1	OK
+5T3	5.5.2382032.1	irred=1	real_roots=5/5	polgalois=5T3 F(5) = 5:4 order=20	nfdisc=2382032 match_disc=1	OK
+5T4	5.5.3104644.1	irred=1	real_roots=5/5	polgalois=5T4 A5 order=60	nfdisc=3104644 match_disc=1	OK
+5T5	5.5.24217.1	irred=1	real_roots=5/5	polgalois=5T5 S5 order=120	nfdisc=24217 match_disc=1	OK
+6T1	6.6.300125.1	irred=1	real_roots=6/6	polgalois=6T1 C(6) = 6 = 3[x]2 order=6	nfdisc=300125 match_disc=1	OK
+6T2	6.6.810448.1	irred=1	real_roots=6/6	polgalois=6T2 D_6(6) = [3]2 order=6	nfdisc=810448 match_disc=1	OK
+6T3	6.6.2738000.1	irred=1	real_roots=6/6	polgalois=6T3 D(6) = S(3)[x]2 order=12	nfdisc=2738000 match_disc=1	OK
+6T4	6.6.25969216.1	irred=1	real_roots=6/6	polgalois=6T4 A_4(6) = [2^2]3 order=12	nfdisc=25969216 match_disc=1	OK
+6T5	6.6.722000.1	irred=1	real_roots=6/6	polgalois=6T5 F_18(6) = [3^2]2 = 3 wr 2 order=18	nfdisc=722000 match_disc=1	OK
+6T6	6.6.434581.1	irred=1	real_roots=6/6	polgalois=6T6 2A_4(6) = [2^3]3 = 2 wr 3 order=24	nfdisc=434581 match_disc=1	OK
+6T7	6.6.3356224.1	irred=1	real_roots=6/6	polgalois=6T7 S_4(6d) = [2^2]S(3) order=24	nfdisc=3356224 match_disc=1	OK
+6T8	6.6.33076161.1	irred=1	real_roots=6/6	polgalois=6T8 S_4(6c) = 1/2[2^3]S(3) order=24	nfdisc=33076161 match_disc=1	OK
+6T9	6.6.27848000.1	irred=1	real_roots=6/6	polgalois=6T9 F_18(6):2 = [1/2.S(3)^2]2 order=36	nfdisc=27848000 match_disc=1	OK
+6T10	6.6.55130625.1	irred=1	real_roots=6/6	polgalois=6T10 F_36(6) = 1/2[S(3)^2]2 order=36	nfdisc=55130625 match_disc=1	OK
+6T11	6.6.1387029.1	irred=1	real_roots=6/6	polgalois=6T11 2S_4(6) = [2^3]S(3) = 2 wr S(3) order=48	nfdisc=1387029 match_disc=1	OK
+6T12	6.6.30991489.1	irred=1	real_roots=6/6	polgalois=6T12 L(6) = PSL(2,5) = A_5(6) order=60	nfdisc=30991489 match_disc=1	OK
+6T13	6.6.485125.1	irred=1	real_roots=6/6	polgalois=6T13 F_36(6):2 = [S(3)^2]2 = S(3) wr 2 order=72	nfdisc=485125 match_disc=1	OK
+6T14	6.6.767431973.1	irred=1	real_roots=6/6	polgalois=6T14 L(6):2 = PGL(2,5) = S_5(6) order=120	nfdisc=767431973 match_disc=1	OK
+6T15	6.6.170067681.1	irred=1	real_roots=6/6	polgalois=6T15 A6 order=360	nfdisc=170067681 match_disc=1	OK
+6T16	6.6.592661.1	irred=1	real_roots=6/6	polgalois=6T16 S6 order=720	nfdisc=592661 match_disc=1	OK
+8T1	8.8.410338673.1	irred=1	real_roots=8/8	polgalois=8T1 C(8)=8 order=8	nfdisc=410338673 match_disc=1	OK
+8T2	8.8.324000000.1	irred=1	real_roots=8/8	polgalois=8T2 4[x]2 order=8	nfdisc=324000000 match_disc=1	OK
+8T3	8.8.3317760000.1	irred=1	real_roots=8/8	polgalois=8T3 E(8)=2[x]2[x]2 order=8	nfdisc=3317760000 match_disc=1	OK
+8T4	8.8.442050625.1	irred=1	real_roots=8/8	polgalois=8T4 D_8(8)=[4]2 order=8	nfdisc=442050625 match_disc=1	OK
+8T5	8.8.12230590464.1	irred=1	real_roots=8/8	polgalois=8T5 Q_8(8) order=8	nfdisc=12230590464 match_disc=1	OK
+8T6	8.8.5910106112.1	irred=1	real_roots=8/8	polgalois=8T6 D(8) order=16	nfdisc=5910106112 match_disc=1	OK
+8T7	8.8.5120000000.1	irred=1	real_roots=8/8	polgalois=8T7 1/2[2^3]4 order=16	nfdisc=5120000000 match_disc=1	OK
+8T8	8.8.16098453125.1	irred=1	real_roots=8/8	polgalois=8T8 2D_8(8)=[D(4)]2 order=16	nfdisc=16098453125 match_disc=1	OK
+8T9	8.8.1534132224.1	irred=1	real_roots=8/8	polgalois=8T9 E(8):2=D(4)[x]2 order=16	nfdisc=1534132224 match_disc=1	OK
+8T10	8.8.1064390625.1	irred=1	real_roots=8/8	polgalois=8T10 [2^2]4 order=16	nfdisc=1064390625 match_disc=1	OK
+8T11	8.8.432640000.1	irred=1	real_roots=8/8	polgalois=8T11 1/2[2^3]E(4)=Q_8:2 order=16	nfdisc=432640000 match_disc=1	OK
+8T12	8.8.5887339441.1	irred=1	real_roots=8/8	polgalois=8T12 2A_4(8)=[2]A(4)=SL(2,3) order=24	nfdisc=5887339441 match_disc=1	OK
+8T13	8.8.60523872256.1	irred=1	real_roots=8/8	polgalois=8T13 E(8):3=A(4)[x]2 order=24	nfdisc=60523872256 match_disc=1	OK
+8T14	8.8.821386940416.1	irred=1	real_roots=8/8	polgalois=8T14 S(4)[1/2]2=1/2(S_4[x]2) order=24	nfdisc=821386940416 match_disc=1	OK
+8T15	8.8.119435644125.1	irred=1	real_roots=8/8	polgalois=8T15 [1/4.cD(4)^2]2 order=32	nfdisc=119435644125 match_disc=1	OK
+8T16	8.8.47897578125.1	irred=1	real_roots=8/8	polgalois=8T16 1/2[2^4]4 order=32	nfdisc=47897578125 match_disc=1	OK
+8T17	8.8.282300416.1	irred=1	real_roots=8/8	polgalois=8T17 [4^2]2 order=32	nfdisc=282300416 match_disc=1	OK
+8T18	8.8.4163475625.1	irred=1	real_roots=8/8	polgalois=8T18 E(8):E_4=[2^2]D(4) order=32	nfdisc=4163475625 match_disc=1	OK
+8T19	8.8.87578116096.1	irred=1	real_roots=8/8	polgalois=8T19 E(8):4=[1/4.eD(4)^2]2 order=32	nfdisc=87578116096 match_disc=1	OK
+8T20	8.8.14884000000.1	irred=1	real_roots=8/8	polgalois=8T20 [2^3]4 order=32	nfdisc=14884000000 match_disc=1	OK
+8T21	8.8.175156232192.1	irred=1	real_roots=8/8	polgalois=8T21 1/2[2^4]E(4)=[1/4.dD(4)^2]2 order=32	nfdisc=175156232192 match_disc=1	OK
+8T22	8.8.18063360000.1	irred=1	real_roots=8/8	polgalois=8T22 E(8):D_4=[2^3]2^2 order=32	nfdisc=18063360000 match_disc=1	OK
+8T23	8.8.21415471433.1	irred=1	real_roots=8/8	polgalois=8T23 2S_4(8)=GL(2,3) order=48	nfdisc=21415471433 match_disc=1	OK
+8T24	8.8.2393655625.1	irred=1	real_roots=8/8	polgalois=8T24 E(8):D_6=S(4)[x]2 order=48	nfdisc=2393655625 match_disc=1	OK
+8T25	8.8.9745585291264.1	irred=1	real_roots=8/8	polgalois=8T25 E(8):7=F_56(8) order=56	nfdisc=9745585291264 match_disc=1	OK
+8T26	8.8.2576088125.1	irred=1	real_roots=8/8	polgalois=8T26 1/2[2^4]eD(4) order=64	nfdisc=2576088125 match_disc=1	OK
+8T27	8.8.1292203125.1	irred=1	real_roots=8/8	polgalois=8T27 [2^4]4 order=64	nfdisc=1292203125 match_disc=1	OK
+8T28	8.8.8160800000.1	irred=1	real_roots=8/8	polgalois=8T28 1/2[2^4]dD(4) order=64	nfdisc=8160800000 match_disc=1	OK
+8T29	8.8.5069440000.1	irred=1	real_roots=8/8	polgalois=8T29 E(8):D_8=[2^3]D(4) order=64	nfdisc=5069440000 match_disc=1	OK
+8T30	8.8.123911940625.1	irred=1	real_roots=8/8	polgalois=8T30 1/2[2^4]cD(4) order=64	nfdisc=123911940625 match_disc=1	OK
+8T31	8.8.1948160000.1	irred=1	real_roots=8/8	polgalois=8T31 [2^4]E(4) order=64	nfdisc=1948160000 match_disc=1	OK
+8T32	8.8.3150330356889.1	irred=1	real_roots=8/8	polgalois=8T32 [2^3]A(4) order=96	nfdisc=3150330356889 match_disc=1	OK
+8T33	8.8.94540875625.1	irred=1	real_roots=8/8	polgalois=8T33 E(8):A_4=[1/3.A(4)^2]2=E(4):6 order=96	nfdisc=94540875625 match_disc=1	OK
+8T34	8.8.3747708810000.1	irred=1	real_roots=8/8	polgalois=8T34 1/2[E(4)^2:S_3]2=E(4)^2:D_6 order=96	nfdisc=3747708810000 match_disc=1	OK
+8T35	8.8.309593125.1	irred=1	real_roots=8/8	polgalois=8T35 [2^4]D(4) order=128	nfdisc=309593125 match_disc=1	OK
+8T36	8.8.6423507767296.1	irred=1	real_roots=8/8	polgalois=8T36 E(8):F_21 order=168	nfdisc=6423507767296 match_disc=1	OK
+8T37	8.8.134579395898896.1	irred=1	real_roots=8/8	polgalois=8T37 L(8)=PSL(2,7) order=168	nfdisc=134579395898896 match_disc=1	OK
+8T38	8.8.62826146729.1	irred=1	real_roots=8/8	polgalois=8T38 [2^4]A(4) order=192	nfdisc=62826146729 match_disc=1	OK
+8T39	8.8.5240022544.1	irred=1	real_roots=8/8	polgalois=8T39 [2^3]S(4) order=192	nfdisc=5240022544 match_disc=1	OK
+8T40	8.8.463143405393.1	irred=1	real_roots=8/8	polgalois=8T40 1/2[2^4]S(4) order=192	nfdisc=463143405393 match_disc=1	OK
+8T41	8.8.47461236736.1	irred=1	real_roots=8/8	polgalois=8T41 E(8):S_4=[E(4)^2:S_3]2=E(4)^2:D_12 order=192	nfdisc=47461236736 match_disc=1	OK
+8T42	8.8.22982560000.1	irred=1	real_roots=8/8	polgalois=8T42 [A(4)^2]2 order=288	nfdisc=22982560000 match_disc=1	OK
+8T43	8.8.312349488740352.1	irred=1	real_roots=8/8	polgalois=8T43 L(8):2=PGL(2,7) order=336	nfdisc=312349488740352 match_disc=1	OK
+8T44	8.8.1152784549.1	irred=1	real_roots=8/8	polgalois=8T44 [2^4]S(4) order=384	nfdisc=1152784549 match_disc=1	OK
+8T45	8.8.43816955625.1	irred=1	real_roots=8/8	polgalois=8T45 [1/2.S(4)^2]2 order=576	nfdisc=43816955625 match_disc=1	OK
+8T46	8.8.210791778125.1	irred=1	real_roots=8/8	polgalois=8T46 1/2[S(4)^2]2 order=576	nfdisc=210791778125 match_disc=1	OK
+8T47	8.8.661518125.1	irred=1	real_roots=8/8	polgalois=8T47 [S(4)^2]2 order=1152	nfdisc=661518125 match_disc=1	OK
+8T48	8.8.81366421504.1	irred=1	real_roots=8/8	polgalois=8T48 E(8):L_7=AL(8) order=1344	nfdisc=81366421504 match_disc=1	OK
+8T49	8.8.46664208361.1	irred=1	real_roots=8/8	polgalois=8T49 A8 order=20160	nfdisc=46664208361 match_disc=1	OK
+8T50	8.8.483345053.1	irred=1	real_roots=8/8	polgalois=8T50 S8 order=40320	nfdisc=483345053 match_disc=1	OK
+total=71 mismatches=0

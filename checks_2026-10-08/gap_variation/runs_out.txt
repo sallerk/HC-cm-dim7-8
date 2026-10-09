@@ -1,0 +1,77 @@
+# out.txt of each run (a,b,c,d,e: sage -python prep_seed.py; f,g: gap prep.g; h: gap prep2.g; k: gap prep3.g)
+# a: no seed; b: seed 0; c: seed 1; d: seed 0 + PYTHONHASHSEED=0; e: as d + setarch -R; f: pure GAP; g: pure GAP + setarch -R
+== a1
+arg none sage initial_seed 1378437047775246978812479724023945962
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 38.4s
+== a2
+arg none sage initial_seed 191544276065156428871222253306743337819
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 38.3s
+== b1
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 38.3s
+== b2
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 38.4s
+== c1
+arg 1 sage initial_seed 1
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 38.6s
+== d1
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 41.8s
+== d2
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 41.9s
+== e1
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 43.4s
+== e2
+arg 0 sage initial_seed 0
+GAP GlobalMersenneTwister state e91f9e6ed69d
+GAP GlobalRandomSource state 5b721f4a3046
+prep: |Q|=322560 classes 6665 time 42.6s
+== f1
+done 6665
+== f2
+done 6665
+== g1
+done 6665
+== g2
+done 6665
+== h1
+first after classes: MT 495DE5B537 RS 6C6DBA7E0 reps C737F24EC4
+first at end: MT 4AAE9ADDAA RS 6C6DBA7E0 gens D2ED6F29D5
+second after classes: MT 49812EF027 RS 6C6DBA7E0 reps C73F195E30
+second at end: MT 4A735B9584 RS 6C6DBA7E0 gens D3FDB585C3
+== h2
+first after classes: MT 49812EF027 RS 6C6DBA7E0 reps C750DC8032
+first at end: MT 4A6DA2BC64 RS 6C6DBA7E0 gens D3FDB585C3
+second after classes: MT 49ECD464D1 RS 6C6DBA7E0 reps C7454C4968
+second at end: MT 4AB6D495C8 RS 6C6DBA7E0 gens D2654BFBDE
+== k1
+W gens 175110CA3 MT 49BB000205
+Q gens 38A879FC8 degree 14 MT 4B66D7ECA3
+classes 6665 reps C75CA9C008 MT 4B0C5D0359
+== k2
+W gens 175110CA3 MT 49BB000205
+Q gens 38A879FC8 degree 14 MT 4B66D7ECA3
+classes 6665 reps C73FEEFDD8 MT 495DE5B537
+== k3
+W gens 175110CA3 MT 49BB000205
+Q gens 38A879FC8 degree 14 MT 4B66D7ECA3
+classes 6665 reps C76AF7DEDE MT 4AD211DF63

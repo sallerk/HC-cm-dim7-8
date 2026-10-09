@@ -332,3 +332,5 @@
 7 5844 [0, 1, 6, 9, 10, 11, 12] |G|=480 verifier Dmin=8 producer Dmin=8 AGREE
 7 6083 [0, 1, 2, 3, 4, 5, 13] |G|=720 verifier Dmin=10 producer Dmin=10 AGREE
 7 6083 [0, 1, 2, 3, 4, 12, 13] |G|=720 verifier Dmin=8 producer Dmin=8 AGREE
+7 6083 [0, 1, 2, 10, 11, 12, 13] |G|=720 verifier Dmin=8 producer Dmin=8 AGREE
+7 6083 [0, 1, 9, 10, 11, 12, 13] |G|=720 verifier Dmin=10 producer Dmin=10 AGREE
