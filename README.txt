@@ -8,7 +8,7 @@ classes) and determine which Weil classes (for which CM fields, on which product
 their Hodge classes.  This extends the enumeration of the CM-sixfold work (repository HC-cm-sixfolds, folder
 enumeration/) from g <= 6 to g = 7, 8; the model, the conventions and part of the code are shared with it
 (sections 2 and 4).  The note "Degenerate CM types and Weil classes in dimensions seven and eight" (Kevin Saller,
-draft of 8 October 2026) is based on these computations.
+8 October 2026, DOI 10.5281/zenodo.23251143) is based on these computations.
 
 Status: the results in section 1 carry status labels (defined there).  Not refereed by a human expert.
 
