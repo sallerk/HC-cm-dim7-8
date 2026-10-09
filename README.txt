@@ -110,9 +110,9 @@ R4  Consequence for the Hodge conjecture.  [INFERENCE; the results used are CITE
     6 October 2026.)
 
 R5  CM abelian 7-folds, not necessarily simple (Stage C).  [COMPUTED by stageC.py; VERIFIED by verify_enumC.py
-    (all 6665 groups and 29697 cases), verify_generalC.py together with verify_generalC3.py (general tier, all 340
-    reduced strict failures; verify_generalC3.py rests on an argument stated in its header, INFERENCE; see
-    section 10 for the rerun of verify_generalC.py) and
+    (all 6665 groups and 29697 cases), verify_generalC.py (general tier, all 340
+    reduced strict failures, section 10; verify_generalC3.py, which rests on an argument stated in its
+    header, INFERENCE, covers the 76 (6,1) cases a second way) and
     verify_extC.py (D = 16 and 24)]
     - 6665 W(B7)-classes of subgroups containing rho; 29697 cases (G-orbits of CM types); 13962 classes.
     - Reduced pairs (products of pairwise non-isogenous simple factors): 5940 cases (3870 classes), d = 0: 5171,
@@ -334,7 +334,7 @@ coset actions, Hermite normal form; no Sage/GAP)
   verify_enumC.py 7    Stage C, all cases (verify_enum.py of the CM-sixfold enumeration with Schreier-Sims group
                        orders, section 4) -> verify_out_g7.txt
   verify_generalC.py [maxorder] general tier of the 340 reduced strict failures of Stage C (all subgroups)
-                       -> log_verify_generalC.txt (336 of 340 cases, rerun of 2026-10-08, section 10)
+                       -> log_verify_generalC.txt (all 340 cases, rerun of 2026-10-08, section 10)
   verify_generalC3.py  general tier of the 76 (6,1) cases by a block-quotient argument (stated in its header,
                        INFERENCE) -> log_verify_generalC3.txt (stdout)
   verify_extC.py Dmax file      Stage C extended levels -> log_verify_extC_D16.txt, log_verify_extC_D24.txt
@@ -486,8 +486,8 @@ Added after the re-run of section 7 and run once (2026-10-07):
                                                     this folder)
   python compare_blocks_g7.py > blocks_check/compare_blocks_g7_out.txt
 Not part of the pipeline above:
-  python verify_generalC.py                about 40 min for the first 336 cases; the 4 cases of gid 6402
-                                           (|G| = 1440) take much longer (section 10).
+  python verify_generalC.py                all 340 cases: about 40 min for the first 336, then about 85-100 min
+                                           for each of the 4 cases of gid 6402 (|G| = 1440) (section 10).
 
 
 6. SOFTWARE VERSIONS
@@ -545,8 +545,7 @@ In a second re-run of Stage C from the stored stageC_classes.json ("run_parC.py 
 Stage C steps), enum_g7.json, all 67 chunk files and all derived files came out byte-identical to the stored ones
 (verify_out_g7.txt up to its timing value).  The scripts used for these comparisons are not part of this
 repository.
-verify_generalC.py was not re-run here; it was rerun on 2026-10-08 (section 10: 336 of 340 cases when this
-commit was made).
+verify_generalC.py was not re-run here; it was rerun on all 340 cases on 2026-10-08 (section 10).
 probe.py was re-run, but the output of its original run had not been kept; probe_out.txt is the re-run
 output.  The scripts in cm16_control/ were re-run (their outputs had not been kept either; the counts in
 sections A-C of cm16_control_data.txt agree with the re-run outputs).  Not part of this repository and not re-run:
@@ -590,8 +589,8 @@ saturation test); its JSON outputs for g = 4, 5, 6, 7 were byte-identical before
 - The list of reduced Stage C configurations with minimal Weil dimension > 6 is complete for the reduced pairs.
   Non-reduced pairs at g = 7 reduce to g <= 6, which the CM-sixfold enumeration covers.  [INFERENCE, the same
   argument as there]
-- verify_generalC3.py rests on a reduction argument stated in its header [INFERENCE]; it covers the 4 cases
-  of gid 6402 that verify_generalC.py had not finished (section 10).
+- verify_generalC3.py rests on a reduction argument stated in its header [INFERENCE]; since the rerun of
+  section 10, verify_generalC.py covers all 340 cases without it.
 
 
 9. LITERATURE
@@ -708,8 +707,10 @@ reruns/ -- the programs added after the re-run of section 7, rerun on a fresh cl
   used_blocks_check_g7.py, verify_blocks.py (g = 4, 5, 6, 7) and compare_blocks_g7.py give the 11 files of
   blocks_check/ byte for byte (blocks_check_rerun_md5.txt); route2_g7.py and route2_match_g7.py give the stored
   logs up to timings (and the start/finish lines of the stored wrapper) (log_route2_*_rerun.txt).
-verify_generalC.py -- rerun on 2026-10-08 (a fresh clone of be8c17f): 336 of the 340 cases done, all agree;
-  log_verify_generalC.txt is the log of that run so far (its first 334 lines are those of the original partial
-  log).  The run on the remaining 4 cases (gid 6402, |G| = 1440, rows (6,1)) had not finished when this
-  commit was made; they remain covered by verify_generalC3.py [INFERENCE] and, given their shape, by
-  Remark 3.1 of the note.
+verify_generalC.py -- rerun on all 340 cases on 2026-10-08 (a fresh clone of be8c17f): all 340 agree.  Cases
+  1-337 were run by verify_generalC.py itself (19:34-21:54 MDT; the first 336 took 41 min, case 337, the first
+  of gid 6402, 98 min).  Cases 338-340 (gid 6402, |G| = 1440) were run at the same time in three parallel
+  processes by reruns/run_case.py (python run_case.py 337 | 338 | 339 from the repository root; 0-based
+  indices), which calls the same functions and prints the same line (5114-5125 s each; reruns/run_case_*_out.txt);
+  the first run was then stopped.  log_verify_generalC.txt is lines 1-337 of the first run followed by the three
+  lines of run_case.py; its first 334 lines are those of the original partial log.

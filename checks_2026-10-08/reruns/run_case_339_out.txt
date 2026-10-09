@@ -1,0 +1,2 @@
+7 6402 [0, 1, 9, 10, 11, 12, 13] |G|=1440 verifier Dmin=10 producer Dmin=10 AGREE
+case 339: 5123.7 s
